@@ -3,3 +3,4 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 # Service introduction
 - [s3/README.md](./s3/README.md)
 - [pinpoint/README.md](./pinpoint/README.md)
+- [lamda/README.md](./lamda/README.md)
