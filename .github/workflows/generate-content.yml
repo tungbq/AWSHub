@@ -1,0 +1,40 @@
+name: Create Service Folders
+
+on:
+  pull_request:
+
+jobs:
+  create_folders:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install jq -y
+
+    - name: Create folders
+      run: |
+        json=$(cat services.json)
+        services=$(echo "$json" | jq -r '.services[] | @base64')
+        for service in $services; do
+          _jq() {
+            echo ${service} | base64 --decode | jq -r ${1}
+          }
+          folder=$(_jq '.service_folder_name')
+          url=$(_jq '.service_url')
+          youtube_url=$(_jq '.service_youtube_url')
+          mkdir "$folder"
+          echo "Service: $folder" > "$folder/README.md"
+          echo -e "Service URL: [$url]($url)\n\nYouTube URL: [$youtube_url]($youtube_url)" >> "$folder/README.md"
+          echo -e "[$folder]($folder/README.md)" >> README.md
+        done
+        git add .
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Create service folders and README files" --no-verify
+        git push
