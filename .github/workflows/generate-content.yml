@@ -28,7 +28,14 @@ jobs:
           folder=$(_jq '.service_folder_name')
           url=$(_jq '.service_url')
           youtube_url=$(_jq '.service_youtube_url')
-          mkdir "$folder"
+
+          if [ ! -d "$folder" ]; then
+            mkdir "$folder"
+            echo "Folder created: $folder"
+          else
+            echo "Folder already exists: $folder"
+          fi
+
           echo "- Service: $folder" > "$folder/README.md"
           echo -e "- Service URL: [$url]($url)\n\nYouTube URL: [$youtube_url]($youtube_url)" >> "$folder/README.md"
           echo -e "- [$folder]($folder/README.md)" >> README.md
