@@ -1,4 +1,4 @@
-name: Create Service Folders
+name: Generate Service Content
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  create_folders:
+  generate_content:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,7 +17,7 @@ jobs:
     - name: Install jq
       run: sudo apt-get install jq -y
 
-    - name: Create folders
+    - name: Generate Content
       run: |
         json=$(cat services.json)
         services=$(echo "$json" | jq -r '.services[] | @base64')
@@ -47,16 +47,17 @@ jobs:
           # Update the README.md content
           echo -e "- [$folder/README.md](./$folder/README.md)" >> README.md
         done
-        git add .
+        echo "Check the new content in README.md"
+        cat README.md
 
     - name: Commit changes
+      if: github.event_name == 'workflow_dispatch'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Create service folders and README files" --no-verify
         git status
-        echo "Check the new content in README.md"
-        cat README.md
+        git add .
+        git commit -m "[bot] Generate doc content for AWS services" --no-verify
 
     - name: Create pull request
       if: github.event_name == 'workflow_dispatch'
