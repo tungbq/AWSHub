@@ -1,22 +1,10 @@
 {
   "services": [
     {
-      "service_name": "Service 1",
-      "service_url": "https://example.com/service1",
-      "service_youtube_url": "https://www.youtube.com/watch?v=123456",
-      "service_folder_name": "service1"
+      "service_name": "AWS S3",
+      "service_url": "https://docs.aws.amazon.com/s3",
+      "service_youtube_url": "https://youtu.be/77lMCiiMilo",
+      "service_folder_name": "s3"
     },
-    {
-      "service_name": "Service 2",
-      "service_url": "https://example.com/service2",
-      "service_youtube_url": "https://www.youtube.com/watch?v=789012",
-      "service_folder_name": "service2"
-    },
-    {
-      "service_name": "Service 3",
-      "service_url": "https://example.com/service3",
-      "service_youtube_url": "https://www.youtube.com/watch?v=345678",
-      "service_folder_name": "service3"
-    }
   ]
 }
