@@ -5,6 +5,12 @@
       "service_url": "https://docs.aws.amazon.com/s3",
       "service_youtube_url": "https://youtu.be/77lMCiiMilo",
       "service_folder_name": "s3"
+    },
+    {
+      "service_name": "AWS Pinpoint",
+      "service_url": "To-be-updated",
+      "service_youtube_url": "To-be-updated",
+      "service_folder_name": "pinpoint"
     }
   ]
 }
