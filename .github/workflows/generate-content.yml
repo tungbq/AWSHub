@@ -37,8 +37,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Create service folders and README files" --no-verify
-    - name: Push changes to current pull request
-      uses: ad-m/github-push-action@v0.6.0
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-  
+        branch: ${{ github.ref }}
