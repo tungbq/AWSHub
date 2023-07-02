@@ -29,9 +29,9 @@ jobs:
           url=$(_jq '.service_url')
           youtube_url=$(_jq '.service_youtube_url')
           mkdir "$folder"
-          echo "Service: $folder" > "$folder/README.md"
-          echo -e "Service URL: [$url]($url)\n\nYouTube URL: [$youtube_url]($youtube_url)" >> "$folder/README.md"
-          echo -e "[$folder]($folder/README.md)" >> README.md
+          echo "- Service: $folder" > "$folder/README.md"
+          echo -e "- Service URL: [$url]($url)\n\nYouTube URL: [$youtube_url]($youtube_url)" >> "$folder/README.md"
+          echo -e "- [$folder]($folder/README.md)" >> README.md
         done
         git add .
 
