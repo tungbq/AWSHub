@@ -75,7 +75,8 @@ jobs:
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
-        branch: doc-patches
+        branch: update-doc-patches
+        branch-suffix: random
         delete-branch: true
         title: '[bot] Generate doc content for AWS services'
         body: |
