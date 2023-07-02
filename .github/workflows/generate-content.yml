@@ -37,5 +37,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Create service folders and README files" --no-verify
-        git push -f origin HEAD
+        git push origin tung-dev-feature-test
   
