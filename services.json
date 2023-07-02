@@ -17,6 +17,12 @@
       "service_url": "https://docs.aws.amazon.com/lambda/index.html",
       "service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
       "service_folder_name": "lamda"
+    },
+    {
+      "service_name": "AWS Appflow",
+      "service_url": "https://docs.aws.amazon.com/appflow/index.html",
+      "service_youtube_url": "https://youtu.be/6NSxo5syl40",
+      "service_folder_name": "appflow"
     }
   ]
 }
