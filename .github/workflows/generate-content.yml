@@ -38,7 +38,9 @@ jobs:
 
           echo "- Service: $folder" > "$folder/README.md"
           echo -e "- Service URL: [$url]($url)\n\nYouTube URL: [$youtube_url]($youtube_url)" >> "$folder/README.md"
-          echo -e "- [$folder]($folder/README.md)" >> README.md
+          echo -e "- [$folder/README.md](./$folder/README.md)" >> README.md
+          echo "Check the new content in $folder/README.md"
+          cat "$folder/README.md"
         done
         git add .
 
@@ -48,7 +50,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git commit -m "Create service folders and README files" --no-verify
         git status
-        # Check the new content
+        echo "Check the new content in README.md"
         cat README.md
 
     - name: Create pull request
