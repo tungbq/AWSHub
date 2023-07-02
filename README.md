@@ -1,7 +1,8 @@
 # AWS-IntroLearningCollection
 Welcome to the AWS Intro Resources Repository! This repository aims to collect free learning resources for AWS services to help beginners get started with Amazon Web Services. Below you will find links to detailed documentation and introductory videos for some popular AWS services:
 
-- [AWS S3](./s3/README.md)
+# Service introduction
+- [AWS S3 introdution](./s3/README.md)
 
 ## Contributing
 
