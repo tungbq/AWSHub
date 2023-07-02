@@ -44,6 +44,8 @@ jobs:
           echo "Check the new content in $folder/README.md"
           cat "$folder/README.md"
 
+          # Clean up the previous content under 'Service introduction'
+          sed -i '/# Service introduction/,$ {/# Service introduction/!d}' README.md
           # Update the README.md content
           echo -e "- [$folder/README.md](./$folder/README.md)" >> README.md
         done
