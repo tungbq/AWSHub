@@ -91,6 +91,6 @@ jobs:
           
     - name: Enable Pull Request Automerge
       if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
-      run: gh pr merge --merge --auto ${{ github.event.pull_request.number }}
+      run: gh pr merge --merge --auto ${{ steps.cpr.outputs.pull-request-number }}
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
