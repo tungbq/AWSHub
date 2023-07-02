@@ -1,3 +1,7 @@
+# The current workflow schedule approach:
+# - Run the workflow on PR events to avoid breakage in generate content (not propose PR for doc updates at this point)
+# - Repo owners will manually run the workflow to create the PR to update README.md content based on services json definition
+
 name: Generate Service Content
 
 on:
