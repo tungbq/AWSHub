@@ -70,14 +70,13 @@ jobs:
       id: cpr
       uses: peter-evans/create-pull-request@v5
       with:
-        token: ${{ secrets.PAT }}
         commit-message: Update document
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: doc-patches
         delete-branch: true
-        title: '[Example] Update report'
+        title: '[bot] Generate doc content for AWS services'
         body: |
           Update document
           - Updated with *today's* date
