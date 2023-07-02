@@ -11,6 +11,12 @@
       "service_url": "To-be-updated",
       "service_youtube_url": "To-be-updated",
       "service_folder_name": "pinpoint"
+    },
+    {
+      "service_name": "AWS Lamda",
+      "service_url": "https://docs.aws.amazon.com/lambda/index.html",
+      "service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
+      "service_folder_name": "lamda"
     }
   ]
 }
