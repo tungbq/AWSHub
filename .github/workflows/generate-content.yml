@@ -41,6 +41,8 @@ jobs:
         git config --local user.name "GitHub Action"
         git commit -m "Create service folders and README files" --no-verify
         git status
+        # Check the new content
+        cat README.md
 
     - name: Create pull request
       if: github.event_name == 'workflow_dispatch'
