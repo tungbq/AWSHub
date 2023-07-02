@@ -1,0 +1,76 @@
+# The current workflow schedule approach:
+# - Run the workflow on PR events to avoid breakage in generate content (not propose PR for doc updates at this point)
+# - Repo owners will manually run the workflow to create the PR to update README.md content based on services json definition
+
+name: Generate Service Content
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate_content:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install jq -y
+
+    - name: Generate Content
+      run: |
+        json=$(cat services.json)
+        services=$(echo "$json" | jq -r '.services[] | @base64')
+        for service in $services; do
+          _jq() {
+            echo ${service} | base64 --decode | jq -r ${1}
+          }
+          folder=$(_jq '.service_folder_name')
+          url=$(_jq '.service_url')
+          youtube_url=$(_jq '.service_youtube_url')
+          service_name=$(_jq '.service_name')
+
+          if [ ! -d "$folder" ]; then
+            mkdir "$folder"
+            echo "Folder created: $folder"
+          else
+            echo "Folder already exists: $folder"
+          fi
+
+          echo "# $service_name" > "$folder/README.md"
+          # Update the service README.md content
+          echo -e "- Official AWS URL: $url" >> "$folder/README.md"
+          echo -e "- Official YouTube Introduction: $youtube_url" >> "$folder/README.md"
+          echo "Check the new content in $folder/README.md"
+          cat "$folder/README.md"
+
+          # Clean up the previous content under 'Service introduction'
+          sed -i '/# Service introduction/,$ {/# Service introduction/!d}' README.md
+          # Update the README.md content
+          echo -e "- [$folder/README.md](./$folder/README.md)" >> README.md
+        done
+        echo "Check the new content in README.md"
+        cat README.md
+
+    - name: Commit changes
+      if: github.event_name == 'workflow_dispatch'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git status
+        git add .
+        git commit -m "[bot] Generate doc content for AWS services" --no-verify
+
+    - name: Create pull request
+      if: github.event_name == 'workflow_dispatch'
+      uses: peter-evans/create-pull-request@v3.10.1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'Updated service folders and README files'
+        title: 'Updated service folders and README files'
+        branch: ${{ github.ref }}
+        body: 'This pull request updates the service folders and README files.'
