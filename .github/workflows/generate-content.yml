@@ -9,6 +9,9 @@ on:
     branches:
       - main
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate_content:
@@ -67,6 +70,7 @@ jobs:
         git commit -m "[bot] Generate doc content for AWS services" --no-verify
 
     - name: Create pull request
+      if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch' }}
       id: cpr
       uses: peter-evans/create-pull-request@v5
       with:
@@ -86,6 +90,7 @@ jobs:
           [1]: https://github.com/peter-evans/create-pull-request
           
     - name: Enable Pull Request Automerge
+      if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch' }}
       run: gh pr merge --merge --auto "1"
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
