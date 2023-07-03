@@ -3,7 +3,7 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 # AWS Documentation
 - https://docs.aws.amazon.com
 # Contributing
-- See: [CONTRIBUTING.MD](./CONTRIBUTING.MD)
+- See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
 # Service introduction
 - [s3/README.md](./s3/README.md)
 - [pinpoint/README.md](./pinpoint/README.md)
