@@ -9,3 +9,4 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - [pinpoint/README.md](./pinpoint/README.md)
 - [lamda/README.md](./lamda/README.md)
 - [appflow/README.md](./appflow/README.md)
+- [kinesis/README.md](./kinesis/README.md)
