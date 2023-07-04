@@ -23,6 +23,12 @@
       "service_url": "https://docs.aws.amazon.com/appflow/index.html",
       "service_youtube_url": "https://youtu.be/6NSxo5syl40",
       "service_folder_name": "appflow"
+    },
+    {
+      "service_name": "AWS Kinesis",
+      "service_url": "https://docs.aws.amazon.com/kinesis/index.html",
+      "service_youtube_url": "https://youtu.be/MbEfiX4sMXc",
+      "service_folder_name": "kinesis"
     }
   ]
 }
