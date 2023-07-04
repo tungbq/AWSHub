@@ -5,6 +5,7 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 # Contributing
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
 # Service introduction
+- [ec2/README.md](./ec2/README.md)
 - [s3/README.md](./s3/README.md)
 - [pinpoint/README.md](./pinpoint/README.md)
 - [lamda/README.md](./lamda/README.md)
