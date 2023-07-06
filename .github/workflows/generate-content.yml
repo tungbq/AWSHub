@@ -8,11 +8,14 @@ on:
   pull_request:
     branches:
       - main
+    paths:
+      - 'services.json'
   workflow_dispatch:
   push:
     branches:
       - main
-
+    paths:
+      - 'services.json'
 jobs:
   generate_content:
     runs-on: ubuntu-latest
