@@ -11,3 +11,4 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - [appflow/README.md](./appflow/README.md)
 - [kinesis/README.md](./kinesis/README.md)
 - [ec2/README.md](./ec2/README.md)
+- [cloudwatch/README.md](./cloudwatch/README.md)
