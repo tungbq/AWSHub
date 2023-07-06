@@ -41,6 +41,12 @@
       "service_url": "https://docs.aws.amazon.com/cloudwatch/",
       "service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
       "service_folder_name": "cloudwatch"
+    },
+    {
+      "service_name": "AWS RDS",
+      "service_url": "https://docs.aws.amazon.com/rds",
+      "service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
+      "service_folder_name": "rds"
     }
   ]
 }
