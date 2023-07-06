@@ -29,6 +29,12 @@
       "service_url": "https://docs.aws.amazon.com/kinesis/index.html",
       "service_youtube_url": "https://youtu.be/MbEfiX4sMXc",
       "service_folder_name": "kinesis"
+    },
+    {
+      "service_name": "AWS EC2",
+      "service_url": "https://docs.aws.amazon.com/ec2/",
+      "service_youtube_url": "https://youtu.be/TsRBftzZsQo",
+      "service_folder_name": "ec2"
     }
   ]
 }
