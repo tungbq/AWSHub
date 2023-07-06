@@ -35,6 +35,12 @@
       "service_url": "https://docs.aws.amazon.com/ec2/",
       "service_youtube_url": "https://youtu.be/TsRBftzZsQo",
       "service_folder_name": "ec2"
+    },
+    {
+      "service_name": "AWS CloudWatch",
+      "service_url": "https://docs.aws.amazon.com/cloudwatch/",
+      "service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
+      "service_folder_name": "cloudwatch"
     }
   ]
 }
