@@ -47,6 +47,12 @@
       "service_url": "https://docs.aws.amazon.com/rds",
       "service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
       "service_folder_name": "rds"
+    },
+    {
+      "service_name": "AWS ControlTower ",
+      "service_url": "https://docs.aws.amazon.com/controltower",
+      "service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
+      "service_folder_name": "controltower"
     }
   ]
 }
