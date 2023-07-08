@@ -47,6 +47,24 @@
       "service_url": "https://docs.aws.amazon.com/rds",
       "service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
       "service_folder_name": "rds"
+    },
+    {
+      "service_name": "AWS ControlTower ",
+      "service_url": "https://docs.aws.amazon.com/controltower",
+      "service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
+      "service_folder_name": "controltower"
+    },
+    {
+      "service_name": "AWS Route53",
+      "service_url": "https://docs.aws.amazon.com/route53",
+      "service_youtube_url": "https://youtu.be/RGWgfhZByAI",
+      "service_folder_name": "route53"
+    },
+    {
+      "service_name": "AWS Cloudfront",
+      "service_url": "https://docs.aws.amazon.com/cloudfront",
+      "service_youtube_url": "https://youtu.be/AT-nHW3_SVI",
+      "service_folder_name": "cloudfront"
     }
   ]
 }
