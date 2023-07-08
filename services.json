@@ -58,7 +58,7 @@
       "service_name": "AWS Route53",
       "service_url": "https://docs.aws.amazon.com/route53",
       "service_youtube_url": "https://youtu.be/RGWgfhZByAI",
-      "service_folder_name": "route3"
+      "service_folder_name": "route53"
     },
     {
       "service_name": "AWS Cloudfront",
