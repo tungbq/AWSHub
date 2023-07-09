@@ -71,6 +71,12 @@
       "service_url": "https://docs.aws.amazon.com/lambda/index.html",
       "service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
       "service_folder_name": "lamda"
+    },
+    {
+      "service_name": "AWS KMS",
+      "service_url": "https://docs.aws.amazon.com/kms",
+      "service_youtube_url": "https://youtu.be/8Z0wsE2HoSo",
+      "service_folder_name": "kms"
     }
   ]
 }
