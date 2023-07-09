@@ -77,6 +77,12 @@
       "service_url": "https://docs.aws.amazon.com/kms",
       "service_youtube_url": "https://youtu.be/8Z0wsE2HoSo",
       "service_folder_name": "kms"
+    },
+    {
+      "service_name": "AWS ACM",
+      "service_url": "https://docs.aws.amazon.com/acm",
+      "service_youtube_url": "https://youtu.be/Nk77te-cksQ",
+      "service_folder_name": "acm"
     }
   ]
 }
