@@ -13,3 +13,6 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - [ec2/README.md](./ec2/README.md)
 - [cloudwatch/README.md](./cloudwatch/README.md)
 - [rds/README.md](./rds/README.md)
+- [controltower/README.md](./controltower/README.md)
+- [route53/README.md](./route53/README.md)
+- [cloudfront/README.md](./cloudfront/README.md)
