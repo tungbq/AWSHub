@@ -16,3 +16,6 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - [controltower/README.md](./controltower/README.md)
 - [route53/README.md](./route53/README.md)
 - [cloudfront/README.md](./cloudfront/README.md)
+- [lamda/README.md](./lamda/README.md)
+- [kms/README.md](./kms/README.md)
+- [acm/README.md](./acm/README.md)
