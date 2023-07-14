@@ -4,8 +4,8 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - https://docs.aws.amazon.com
 # Contributing
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
-# Top 50+ AWS Services Explained in 10 Minutes (by Fireship)
-- Watch: https://youtu.be/JIbIYCM48to
+# Top 50+ AWS Services Explained in 10 Minutes
+- Watch: https://youtu.be/JIbIYCM48to (by **Fireship**)
 # Service introduction
 - [s3/README.md](./s3/README.md)
 - [pinpoint/README.md](./pinpoint/README.md)
