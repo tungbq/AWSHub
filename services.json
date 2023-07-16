@@ -85,7 +85,7 @@
       "service_folder_name": "acm"
     },
     {
-      "service_name": "AWS Outposts ",
+      "service_name": "AWS Outposts",
       "service_url": "https://docs.aws.amazon.com/outposts/index.html",
       "service_youtube_url": "https://youtu.be/ppG2FFB0mMQ",
       "service_folder_name": "outposts"
