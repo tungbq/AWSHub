@@ -4,6 +4,8 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - https://docs.aws.amazon.com
 # Contributing
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
+# Request content for new service
+- Open an issue on this repository and we will work on it
 # Top 50+ AWS Services Explained in 10 Minutes
 - Watch: https://youtu.be/JIbIYCM48to (by **Fireship**)
 # Service introduction
