@@ -24,3 +24,4 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - [kms/README.md](./kms/README.md)
 - [acm/README.md](./acm/README.md)
 - [outposts/README.md](./outposts/README.md)
+- [codecommit/README.md](./codecommit/README.md)
