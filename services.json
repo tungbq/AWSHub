@@ -89,6 +89,12 @@
       "service_url": "https://docs.aws.amazon.com/outposts/index.html",
       "service_youtube_url": "https://youtu.be/ppG2FFB0mMQ",
       "service_folder_name": "outposts"
+    },
+    {
+    "service_name": "AWS CodeCommit",
+    "service_url": "https://docs.aws.amazon.com/codecommit",
+    "service_youtube_url": "https://youtu.be/46PRLMW8otg",
+    "service_folder_name": "codecommit"
     }
   ]
 }
