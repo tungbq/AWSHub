@@ -16,8 +16,3 @@ Append these lines for `changeme` to services.json:
     "service_folder_name": "changeme"
 }
 ```
-Where:
-- `service_name` is: `changeme`
-- `service_url` is : `changeme`
-- `service_youtube_url` is : `changeme`
-- `service_folder_name` is: `changeme`
