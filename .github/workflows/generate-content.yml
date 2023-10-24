@@ -66,6 +66,7 @@ jobs:
 
     - name: Commit changes
       run: |
+        if: ${{ !contains(steps.Generate_Content.outputs.new_content, 'nothing to commit') }}
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git status
