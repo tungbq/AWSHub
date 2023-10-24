@@ -107,6 +107,12 @@
       "service_url": "https://docs.aws.amazon.com/transfer/",
       "service_youtube_url": "https://youtu.be/wYaL06kAIxs",
       "service_folder_name": "transfer-family"
+    },
+    {
+      "service_name": "AWS IAM",
+    " service_url": "https://docs.aws.amazon.com/iam",
+      "service_youtube_url": "https://youtu.be/SXSqhTn2DuE",
+      "service_folder_name": "iam"
     }
   ]
 }
