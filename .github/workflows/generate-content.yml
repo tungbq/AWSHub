@@ -59,7 +59,7 @@ jobs:
           cat "$folder/README.md"
 
           # Update the README.md content
-          echo -e "- [$folder/README.md](./$folder/README.md)" >> README.md
+          echo -e "- [$service_name](./$folder/README.md)" >> README.md
         done
         echo "Check the new content in README.md"
         cat README.md
