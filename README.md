@@ -2,6 +2,8 @@
 Welcome to the AWS Learning Resources Repository! This repository aims to collect free learning resources for AWS services to help beginners get started with Amazon Web Services. Below you will find links to detailed documentation and introductory videos for some popular AWS services:
 # AWS Documentation
 - https://docs.aws.amazon.com
+# AWS Architecture
+- https://aws.amazon.com/architecture
 # Contributing
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
 # Request content for new service
