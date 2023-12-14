@@ -101,6 +101,12 @@
       "service_url": "https://docs.aws.amazon.com/ecs/",
       "service_youtube_url": "https://youtu.be/FnFvpIsBrog",
       "service_folder_name": "ecs"
-    }
+    },
+    {
+    "service_name": "AWS EKS",
+    "service_url": "https://docs.aws.amazon.com/eks/",
+    "service_youtube_url": "https://youtu.be/E956xeOt050",
+    "service_folder_name": "eks"
+  }
   ]
 }
