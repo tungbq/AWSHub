@@ -31,3 +31,4 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 - [outposts/README.md](./outposts/README.md)
 - [codecommit/README.md](./codecommit/README.md)
 - [ecs/README.md](./ecs/README.md)
+- [eks/README.md](./eks/README.md)
