@@ -13,4 +13,4 @@ jobs:
         with:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'yes'
-          max-depth: 0
+          max-depth: 2
