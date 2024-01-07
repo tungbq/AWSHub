@@ -28,6 +28,7 @@ jobs:
       run: sudo apt-get install jq -y
 
     - name: Generate Content
+
       run: |
         json=$(cat services.json)
         services=$(echo "$json" | jq -r '.services[] | @base64')
@@ -64,13 +65,20 @@ jobs:
         echo "Check the new content in README.md"
         cat README.md
 
+      run: sh generate-content.sh
+  
+
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git status
         git add .
+        if git diff-index --quiet HEAD --; then
+        echo "No changes to commit"
+        else
         git commit -m "[bot] Generate doc content for AWS services" --no-verify
+        fi
 
     - name: Create pull request
       if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
