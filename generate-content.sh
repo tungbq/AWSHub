@@ -3,8 +3,13 @@
 json=$(cat services.json)
 services=$(echo "$json" | jq -r '.services[] | @base64')
 
-echo "Clean up the previous content under 'Service introduction'"
-sed -i '/# Service introduction/,$ {/# Service introduction/!d}' README.md
+# Clear all text after "# Service introduction"
+sed -i '/# Service introduction/,$d' README.md
+
+# Add the table header
+echo "# Service introduction" >>README.md
+echo "| Service Name | AWS Docs | Introduction |" >>README.md
+echo "|--------------|------------------|------------------------------|" >>README.md
 
 for service in $services; do
   _jq() {
@@ -22,15 +27,11 @@ for service in $services; do
     echo "Folder already exists: $folder"
   fi
 
-  echo "# $service_name" > "$folder/README.md"
+  echo "# $service_name" >"$folder/README.md"
   # Update the service README.md content
-  echo -e "- Official AWS URL: $url" >> "$folder/README.md"
-  echo -e "- Official YouTube Introduction: $youtube_url" >> "$folder/README.md"
+  echo -e "| $service_name | $url | $youtube_url |" >>README.md
   echo "Check the new content in $folder/README.md"
   cat "$folder/README.md"
-
-  # Update the README.md content
-  echo -e "- [$folder/README.md](./$folder/README.md)" >> README.md
 done
 echo "Check the new content in README.md"
 cat README.md
