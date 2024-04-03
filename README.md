@@ -30,7 +30,7 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 
 # Service introduction
 | Service Name | AWS Docs | Youtube Introduction |
-|--------------|------------------|------------------------------|
+|--------------|----------|---------------------|
 | AWS S3 | [s3](https://docs.aws.amazon.com/s3) | https://youtu.be/77lMCiiMilo |
 | AWS Pinpoint | [pinpoint](https://aws.amazon.com/pinpoint/) | https://youtu.be/qJF1pErxqKQ |
 | AWS Lamda | [lamda](https://docs.aws.amazon.com/lambda/index.html) | https://youtu.be/eOBq__h4OJ4 |
