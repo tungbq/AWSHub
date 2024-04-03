@@ -5,7 +5,9 @@
 
 <p align="center">
 <a href="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main" /></a>
+<a href="https://github.com/tungbq/AWS-LearningResource/releases"><img alt="devops-basic release" src="https://img.shields.io/github/release/tungbq/AWS-LearningResource.svg" /></a>
 <a href="https://github.com/tungbq/AWS-LearningResource/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/AWS-LearningResource"/></a>
+
 </p>
 
 ## Getting started 🚀
