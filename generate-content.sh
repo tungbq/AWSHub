@@ -26,8 +26,11 @@ for service in $services; do
   youtube_url=$(_jq '.service_youtube_url')
   service_name=$(_jq '.service_name')
 
+  # Remove "https://" from YouTube URL and extract the video ID
+  youtube_id=$(echo "$youtube_url" | sed 's~https://youtu.be/~~')
+
   # Update the service README.md content
-  echo "| $id | $service_name | [$service_short_name]($url) | $youtube_url |" >>README.md
+  echo "| $id | $service_name | [$service_short_name]($url) | [youtu.be/$youtube_id](https://youtu.be/$youtube_id) |" >>README.md
 
   # Increment ID
   ((id++))
