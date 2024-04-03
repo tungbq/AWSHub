@@ -37,5 +37,8 @@ for service in $services; do
   ((id++))
 done
 
+echo "" >>README.md
+echo "And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐" >>README.md
+
 echo "Check the new content in README.md"
 cat README.md

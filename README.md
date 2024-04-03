@@ -44,3 +44,5 @@ Below you will find links to detailed documentation and introductory videos for 
 | 16 | AWS CodeCommit | 📖 [codecommit](https://docs.aws.amazon.com/codecommit) | [youtu.be/46PRLMW8otg](https://youtu.be/46PRLMW8otg) |
 | 17 | AWS ECS | 📖 [ecs](https://docs.aws.amazon.com/ecs/) | [youtu.be/FnFvpIsBrog](https://youtu.be/FnFvpIsBrog) |
 | 18 | AWS EKS | 📖 [eks](https://docs.aws.amazon.com/eks/) | [youtu.be/E956xeOt050](https://youtu.be/E956xeOt050) |
+
+And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐
