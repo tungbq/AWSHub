@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Read services from JSON file
-services=$(jq -r '.services[] | @base64' services.json)
+# Read services from JSON file and sort them by service name
+services=$(jq -r '.services | sort_by(.service_name) | .[] | @base64' services.json)
 
 # Clear all text after "# AWS Service Resources"
 sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
