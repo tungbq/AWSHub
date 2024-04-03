@@ -8,6 +8,7 @@ sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 
 # Add the table header
 echo "## AWS Services Learning Resources 📘" >>README.md
+echo "Below you will find links to detailed documentation and introductory videos for some popular AWS services" >>README.md
 echo "| ID | Service Name | AWS Docs | Youtube Introduction |" >>README.md
 echo "|----|--------------|----------|---------------------|" >>README.md
 
