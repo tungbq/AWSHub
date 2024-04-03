@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Read services from JSON file
-services=$(jq -r '.services[] | @base64' services.json)
+# Read services from JSON file and sort them by service name
+services=$(jq -r '.services | sort_by(.service_name) | .[] | @base64' services.json)
 
 # Clear all text after "# AWS Service Resources"
 sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
@@ -31,7 +31,7 @@ for service in $services; do
   youtube_id=$(echo "$youtube_url" | sed 's~https://youtu.be/~~')
 
   # Update the service README.md content
-  echo "| $id | $service_name | [📖 $service_short_name]($url) |  [▶️ youtu.be/$youtube_id](https://youtu.be/$youtube_id) |" >>README.md
+  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ▶️ [youtu.be/$youtube_id](https://youtu.be/$youtube_id) |" >>README.md
 
   # Increment ID
   ((id++))
