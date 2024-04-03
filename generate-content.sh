@@ -3,13 +3,16 @@
 # Read services from JSON file
 services=$(jq -r '.services[] | @base64' services.json)
 
-# Clear all text after "# Service introduction"
-sed -i '/# Service introduction/,$d' README.md
+# Clear all text after "# AWS Service Resources"
+sed -i '/# AWS Service Resources/,$d' README.md
 
 # Add the table header
-echo "# Service introduction" >>README.md
-echo "| Service Name | AWS Docs | Youtube Introduction |" >>README.md
-echo "|--------------|----------|---------------------|" >>README.md
+echo "# AWS Service Resources" >>README.md
+echo "| ID | Service Name | AWS Docs | Youtube Introduction |" >>README.md
+echo "|----|--------------|----------|---------------------|" >>README.md
+
+# Initialize ID counter
+id=1
 
 # Iterate over each service
 for service in $services; do
@@ -24,7 +27,10 @@ for service in $services; do
   service_name=$(_jq '.service_name')
 
   # Update the service README.md content
-  echo "| $service_name | [$service_short_name]($url) | $youtube_url |" >>README.md
+  echo "| $id | $service_name | [$service_short_name]($url) | $youtube_url |" >>README.md
+
+  # Increment ID
+  ((id++))
 done
 
 echo "Check the new content in README.md"

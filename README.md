@@ -28,24 +28,25 @@ Welcome to the AWS Learning Resources Repository! This repository aims to collec
 
 - Watch: https://youtu.be/JIbIYCM48to (by **Fireship**)
 
-# Service introduction
-| Service Name | AWS Docs | Youtube Introduction |
-|--------------|----------|---------------------|
-| AWS S3 | [s3](https://docs.aws.amazon.com/s3) | https://youtu.be/77lMCiiMilo |
-| AWS Pinpoint | [pinpoint](https://aws.amazon.com/pinpoint/) | https://youtu.be/qJF1pErxqKQ |
-| AWS Lamda | [lamda](https://docs.aws.amazon.com/lambda/index.html) | https://youtu.be/eOBq__h4OJ4 |
-| AWS Appflow | [appflow](https://docs.aws.amazon.com/appflow/index.html) | https://youtu.be/6NSxo5syl40 |
-| AWS Kinesis | [kinesis](https://docs.aws.amazon.com/kinesis/index.html) | https://youtu.be/MbEfiX4sMXc |
-| AWS EC2 | [ec2](https://docs.aws.amazon.com/ec2/) | https://youtu.be/TsRBftzZsQo |
-| AWS CloudWatch | [cloudwatch](https://docs.aws.amazon.com/cloudwatch/) | https://youtu.be/a4dhoTQCyRA |
-| AWS RDS | [rds](https://docs.aws.amazon.com/rds) | https://youtu.be/a4dhoTQCyRA |
-| AWS ControlTower  | [controltower](https://docs.aws.amazon.com/controltower) | https://youtu.be/eOBq__h4OJ4 |
-| AWS Route53 | [route53](https://docs.aws.amazon.com/route53) | https://youtu.be/RGWgfhZByAI |
-| AWS Cloudfront | [cloudfront](https://docs.aws.amazon.com/cloudfront) | https://youtu.be/AT-nHW3_SVI |
-| AWS Lamda | [lamda](https://docs.aws.amazon.com/lambda/index.html) | https://youtu.be/eOBq__h4OJ4 |
-| AWS KMS | [kms](https://docs.aws.amazon.com/kms) | https://youtu.be/8Z0wsE2HoSo |
-| AWS ACM | [acm](https://docs.aws.amazon.com/acm) | https://youtu.be/Nk77te-cksQ |
-| AWS Outposts | [outposts](https://docs.aws.amazon.com/outposts/index.html) | https://youtu.be/ppG2FFB0mMQ |
-| AWS CodeCommit | [codecommit](https://docs.aws.amazon.com/codecommit) | https://youtu.be/46PRLMW8otg |
-| AWS ECS | [ecs](https://docs.aws.amazon.com/ecs/) | https://youtu.be/FnFvpIsBrog |
-| AWS EKS | [eks](https://docs.aws.amazon.com/eks/) | https://youtu.be/E956xeOt050 |
+# AWS Service Resources
+
+| ID  | Service Name     | AWS Docs                                                    | Youtube Introduction         |
+| --- | ---------------- | ----------------------------------------------------------- | ---------------------------- |
+| 1   | AWS S3           | [s3](https://docs.aws.amazon.com/s3)                        | https://youtu.be/77lMCiiMilo |
+| 2   | AWS Pinpoint     | [pinpoint](https://aws.amazon.com/pinpoint/)                | https://youtu.be/qJF1pErxqKQ |
+| 3   | AWS Lamda        | [lamda](https://docs.aws.amazon.com/lambda/index.html)      | https://youtu.be/eOBq__h4OJ4 |
+| 4   | AWS Appflow      | [appflow](https://docs.aws.amazon.com/appflow/index.html)   | https://youtu.be/6NSxo5syl40 |
+| 5   | AWS Kinesis      | [kinesis](https://docs.aws.amazon.com/kinesis/index.html)   | https://youtu.be/MbEfiX4sMXc |
+| 6   | AWS EC2          | [ec2](https://docs.aws.amazon.com/ec2/)                     | https://youtu.be/TsRBftzZsQo |
+| 7   | AWS CloudWatch   | [cloudwatch](https://docs.aws.amazon.com/cloudwatch/)       | https://youtu.be/a4dhoTQCyRA |
+| 8   | AWS RDS          | [rds](https://docs.aws.amazon.com/rds)                      | https://youtu.be/a4dhoTQCyRA |
+| 9   | AWS ControlTower | [controltower](https://docs.aws.amazon.com/controltower)    | https://youtu.be/eOBq__h4OJ4 |
+| 10  | AWS Route53      | [route53](https://docs.aws.amazon.com/route53)              | https://youtu.be/RGWgfhZByAI |
+| 11  | AWS Cloudfront   | [cloudfront](https://docs.aws.amazon.com/cloudfront)        | https://youtu.be/AT-nHW3_SVI |
+| 12  | AWS Lamda        | [lamda](https://docs.aws.amazon.com/lambda/index.html)      | https://youtu.be/eOBq__h4OJ4 |
+| 13  | AWS KMS          | [kms](https://docs.aws.amazon.com/kms)                      | https://youtu.be/8Z0wsE2HoSo |
+| 14  | AWS ACM          | [acm](https://docs.aws.amazon.com/acm)                      | https://youtu.be/Nk77te-cksQ |
+| 15  | AWS Outposts     | [outposts](https://docs.aws.amazon.com/outposts/index.html) | https://youtu.be/ppG2FFB0mMQ |
+| 16  | AWS CodeCommit   | [codecommit](https://docs.aws.amazon.com/codecommit)        | https://youtu.be/46PRLMW8otg |
+| 17  | AWS ECS          | [ecs](https://docs.aws.amazon.com/ecs/)                     | https://youtu.be/FnFvpIsBrog |
+| 18  | AWS EKS          | [eks](https://docs.aws.amazon.com/eks/)                     | https://youtu.be/E956xeOt050 |
