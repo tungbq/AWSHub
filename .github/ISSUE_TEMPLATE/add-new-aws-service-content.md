@@ -13,7 +13,7 @@ Append these lines for `changeme` to services.json:
     "service_name": "changeme",
     "service_url": "changeme",
     "service_youtube_url": "changeme",
-    "service_folder_name": "changeme"
+    "service_short_name": "changeme"
 }
 ```
 Similar task with #79
