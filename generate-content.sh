@@ -4,10 +4,10 @@
 services=$(jq -r '.services[] | @base64' services.json)
 
 # Clear all text after "# AWS Service Resources"
-sed -i '/# AWS Service Resources/,$d' README.md
+sed -i '/## AWS Services Resources/,$d' README.md
 
 # Add the table header
-echo "# AWS Service Resources" >>README.md
+echo "## AWS Services Resources" >>README.md
 echo "| ID | Service Name | AWS Docs | Youtube Introduction |" >>README.md
 echo "|----|--------------|----------|---------------------|" >>README.md
 
