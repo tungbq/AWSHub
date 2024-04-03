@@ -17,7 +17,7 @@
 - Top 50+ AWS Services Explained in 10 Minutes: https://youtu.be/JIbIYCM48to (by **Fireship**)
 - AWS Architecture: https://aws.amazon.com/architecture
 
-## Contributing
+## Contributing 👋
 
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
 - If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
