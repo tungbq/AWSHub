@@ -4,10 +4,11 @@
 services=$(jq -r '.services[] | @base64' services.json)
 
 # Clear all text after "# AWS Service Resources"
-sed -i '/# AWS Service Resources/,$d' README.md
+sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 
 # Add the table header
-echo "# AWS Service Resources" >>README.md
+echo "## AWS Services Learning Resources 📘" >>README.md
+echo "Below you will find links to detailed documentation and introductory videos for some popular AWS services" >>README.md
 echo "| ID | Service Name | AWS Docs | Youtube Introduction |" >>README.md
 echo "|----|--------------|----------|---------------------|" >>README.md
 
@@ -30,11 +31,14 @@ for service in $services; do
   youtube_id=$(echo "$youtube_url" | sed 's~https://youtu.be/~~')
 
   # Update the service README.md content
-  echo "| $id | $service_name | [$service_short_name]($url) | [youtu.be/$youtube_id](https://youtu.be/$youtube_id) |" >>README.md
+  echo "| $id | $service_name | [📖 $service_short_name]($url) |  [▶️ youtu.be/$youtube_id](https://youtu.be/$youtube_id) |" >>README.md
 
   # Increment ID
   ((id++))
 done
+
+echo "" >>README.md
+echo "And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐" >>README.md
 
 echo "Check the new content in README.md"
 cat README.md
