@@ -8,7 +8,7 @@ For example we have a task to add S3 introduction URLs (#4):
 ```
 - Add this line to the README.md
 ```
-# Service introduction
+# AWS Service Resources
 - [s3/README.md](./s3/README.md)
 ```
 Refer to #6 for more details.
