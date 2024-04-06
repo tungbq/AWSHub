@@ -3,6 +3,10 @@
 # Read services from JSON file and sort them by service name
 services=$(jq -r '.services | sort_by(.service_name) | .[] | @base64' services.json)
 
+# Get total services count
+services_count=$(jq '.services | length' services.json)
+echo "Total services supported: $services_count"
+
 # Clear all text after "# AWS Service Resources"
 sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 
@@ -32,7 +36,7 @@ for service in $services; do
   youtube_id=$(echo "$youtube_url" | sed 's~https://youtu.be/~~')
 
   # Update the service README.md content
-  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ▶️ [youtu.be/$youtube_id](https://youtu.be/$youtube_id) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
+  echo "| $id | $service_name | 📖 [$service_short_name]($url) | <img src="./assets/youtube_icon.png" height="20" width="20"> [youtu.be/$youtube_id](https://youtu.be/$youtube_id) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
 
   # Increment ID
   ((id++))
