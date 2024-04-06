@@ -9,8 +9,8 @@ sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 # Add the table header
 echo "## AWS Services Learning Resources 📘" >>README.md
 echo "Below you will find links to detailed documentation and introductory videos for some popular AWS services" >>README.md
-echo "| ID | Service Name | AWS Docs | Youtube Introduction |" >>README.md
-echo "|----|--------------|----------|---------------------|" >>README.md
+echo "| ID | Service Name | AWS Docs | Youtube Introduction | FAQ |" >>README.md
+echo "|----|--------------|----------|---------------------|-----|" >>README.md
 
 # Initialize ID counter
 id=1
@@ -26,12 +26,13 @@ for service in $services; do
   url=$(_jq '.service_url')
   youtube_url=$(_jq '.service_youtube_url')
   service_name=$(_jq '.service_name')
+  faq_url=$(_jq '.faq_url')
 
   # Remove "https://" from YouTube URL and extract the video ID
   youtube_id=$(echo "$youtube_url" | sed 's~https://youtu.be/~~')
 
   # Update the service README.md content
-  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ▶️ [youtu.be/$youtube_id](https://youtu.be/$youtube_id) |" >>README.md
+  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ▶️ [youtu.be/$youtube_id](https://youtu.be/$youtube_id) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
 
   # Increment ID
   ((id++))
