@@ -131,6 +131,13 @@
 			"service_youtube_url": "https://youtu.be/6ZIPBC78U0s",
 			"service_short_name": "efs",
 			"faq_url": "https://aws.amazon.com/efs/faq/"
+		},
+		{
+			"service_name": "AWS EBS",
+			"service_url": "https://docs.aws.amazon.com/ebs/",
+			"service_youtube_url": "https://youtu.be/77qLAl-lRpo",
+			"service_short_name": "ebs",
+			"faq_url": "https://aws.amazon.com/ebs/faqs/"
 		}
 	]
 }
