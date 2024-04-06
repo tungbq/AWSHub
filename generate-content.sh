@@ -3,6 +3,10 @@
 # Read services from JSON file and sort them by service name
 services=$(jq -r '.services | sort_by(.service_name) | .[] | @base64' services.json)
 
+# Get total services count
+services_count=$(jq '.services | length' services.json)
+echo "Total services supported: $services_count"
+
 # Clear all text after "# AWS Service Resources"
 sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 

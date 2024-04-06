@@ -58,5 +58,6 @@ Below you will find links to detailed documentation and introductory videos for 
 | 28 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
 | 29 | AWS SNS | 📖 [sns](https://docs.aws.amazon.com/sns/) | ▶️ [youtu.be/8BEwZnUIZfw](https://youtu.be/8BEwZnUIZfw) | ❔ [sns/faqs](https://aws.amazon.com/sns/faqs/)|
 | 30 | AWS SQS | 📖 [sqs](https://docs.aws.amazon.com/sqs/) | ▶️ [youtu.be/Mw1NVpJsOZc](https://youtu.be/Mw1NVpJsOZc) | ❔ [sqs/faqs](https://aws.amazon.com/sqs/faqs/)|
+| 31 | AWS VPC | 📖 [vpc](https://docs.aws.amazon.com/vpc/) | ▶️ [youtu.be/https://www.youtube.com/watch?v=hiKPPy584Mg&t=80s](https://youtu.be/https://www.youtube.com/watch?v=hiKPPy584Mg&t=80s) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
 
 And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐

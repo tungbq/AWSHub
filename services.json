@@ -208,6 +208,13 @@
 			"service_youtube_url": "https://youtu.be/MJDuAvNEv64",
 			"service_short_name": "config",
 			"faq_url": "https://aws.amazon.com/config/faqs/"
+		},
+		{
+			"service_name": "AWS VPC",
+			"service_url": "https://docs.aws.amazon.com/vpc/",
+			"service_youtube_url": "https://www.youtube.com/watch?v=hiKPPy584Mg&t=80s",
+			"service_short_name": "vpc",
+			"faq_url": "https://aws.amazon.com/vpc/faqs/"
 		}
 	]
 }
