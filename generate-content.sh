@@ -10,11 +10,18 @@ echo "Total services supported: $services_count"
 # Clear all text after "# AWS Service Resources"
 sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 
-# Add the table header
+# Append main section header
 echo "## AWS Services Learning Resources 📘" >>README.md
-echo "Below you will find links to detailed documentation and introductory videos for some popular AWS services" >>README.md
-echo "| ID | Service Name | AWS Docs | Youtube Introduction | FAQ |" >>README.md
-echo "|----|--------------|----------|---------------------|-----|" >>README.md
+# Brief introduction
+echo "This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services" >>README.md
+echo "- **Total services supported:** **${services_count}**" >>README.md
+echo "- **AWS Docs:** Official documentation for each service" >>README.md
+echo "- **YouTube Introduction:** Official short introduction videos with rich animations and diagrams to aid understanding" >>README.md
+echo "- **AWS FAQs:** Frequently asked questions about AWS services" >>README.md
+
+echo "" >>README.md
+echo "| ID | Service Name | AWS Docs | YouTube Introduction | AWS FAQs |" >>README.md
+echo "|----|--------------|----------|---------------------|---------|" >>README.md
 
 # Initialize ID counter
 id=1
