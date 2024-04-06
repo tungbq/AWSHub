@@ -26,7 +26,7 @@
 
 ## AWS Services Learning Resources 📘
 This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services
-- **Total services supported:** **35**
+- **Total services supported:** **36**
 - **AWS Docs:** Official documentation for each service
 - **YouTube Introduction:** Official short introduction videos with rich animations and diagrams to aid understanding
 - **AWS FAQs:** Frequently asked questions about AWS services
@@ -52,21 +52,22 @@ This section provides links to detailed documentation, introduction videos, and 
 | 17 | AWS EKS | 📖 [eks](https://docs.aws.amazon.com/eks/) | ▶️ [youtu.be/E956xeOt050](https://youtu.be/E956xeOt050) | ❔ [eks/faqs](https://aws.amazon.com/eks/faqs/)|
 | 18 | AWS EMR | 📖 [emr](https://docs.aws.amazon.com/emr/) | ▶️ [youtu.be/QuwaBOESGiU](https://youtu.be/QuwaBOESGiU) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
 | 19 | AWS ElastiCache | 📖 [elasticache](https://docs.aws.amazon.com/elasticache/) | ▶️ [youtu.be/GoNsuTqeMto](https://youtu.be/GoNsuTqeMto) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
-| 20 | AWS IAM | 📖 [iam](https://docs.aws.amazon.com/iam/) | ▶️ [youtu.be/SXSqhTn2DuE](https://youtu.be/SXSqhTn2DuE) | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/)|
-| 21 | AWS KMS | 📖 [kms](https://docs.aws.amazon.com/kms) | ▶️ [youtu.be/8Z0wsE2HoSo](https://youtu.be/8Z0wsE2HoSo) | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/)|
-| 22 | AWS Kinesis | 📖 [kinesis](https://docs.aws.amazon.com/kinesis/index.html) | ▶️ [youtu.be/MbEfiX4sMXc](https://youtu.be/MbEfiX4sMXc) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
-| 23 | AWS Lake Formation | 📖 [lake-formation](https://aws.amazon.com/lake-formation/) | ▶️ [youtu.be/uVF73MXYay8](https://youtu.be/uVF73MXYay8) | ❔ [lake-formation/faqs](https://aws.amazon.com/lake-formation/faqs/)|
-| 24 | AWS Lambda | 📖 [lambda](https://docs.aws.amazon.com/lambda/index.html) | ▶️ [youtu.be/eOBq__h4OJ4](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
-| 25 | AWS OpenSearch | 📖 [documentdb](https://aws.amazon.com/opensearch-service/) | ▶️ [youtu.be/cZHB7KBubWs](https://youtu.be/cZHB7KBubWs) | ❔ [documentdb/faqs](https://aws.amazon.com/opensearch-service/faqs/)|
-| 26 | AWS Outposts | 📖 [outposts](https://docs.aws.amazon.com/outposts/index.html) | ▶️ [youtu.be/ppG2FFB0mMQ](https://youtu.be/ppG2FFB0mMQ) | ❔ [outposts/faqs](https://aws.amazon.com/outposts/faqs/)|
-| 27 | AWS Pinpoint | 📖 [pinpoint](https://aws.amazon.com/pinpoint/) | ▶️ [youtu.be/qJF1pErxqKQ](https://youtu.be/qJF1pErxqKQ) | ❔ [pinpoint/faqs](https://aws.amazon.com/pinpoint/faqs/)|
-| 28 | AWS QuickSight | 📖 [quicksight](https://docs.aws.amazon.com/quicksight/) | ▶️ [youtu.be/2V1bHRLRG-w](https://youtu.be/2V1bHRLRG-w) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
-| 29 | AWS RDS | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [youtu.be/a4dhoTQCyRA](https://youtu.be/a4dhoTQCyRA) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
-| 30 | AWS Route53 | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [youtu.be/RGWgfhZByAI](https://youtu.be/RGWgfhZByAI) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
-| 31 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
-| 32 | AWS SNS | 📖 [sns](https://docs.aws.amazon.com/sns/) | ▶️ [youtu.be/8BEwZnUIZfw](https://youtu.be/8BEwZnUIZfw) | ❔ [sns/faqs](https://aws.amazon.com/sns/faqs/)|
-| 33 | AWS SQS | 📖 [sqs](https://docs.aws.amazon.com/sqs/) | ▶️ [youtu.be/Mw1NVpJsOZc](https://youtu.be/Mw1NVpJsOZc) | ❔ [sqs/faqs](https://aws.amazon.com/sqs/faqs/)|
-| 34 | AWS Secrets Manager | 📖 [secrets-manager](https://aws.amazon.com/secrets-manager/) | ▶️ [youtu.be/-9nOyaM3kZk](https://youtu.be/-9nOyaM3kZk) | ❔ [secrets-manager/faqs](https://aws.amazon.com/secrets-manager/faqs/)|
-| 35 | AWS VPC | 📖 [vpc](https://docs.aws.amazon.com/vpc/) | ▶️ [youtu.be/hiKPPy584Mg](https://youtu.be/hiKPPy584Mg) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
+| 20 | AWS Elastic Beanstalk | 📖 [elasticbeanstalk](https://aws.amazon.com/elasticbeanstalk/) | ▶️ [youtu.be/uiM1xzOX8Qg](https://youtu.be/uiM1xzOX8Qg) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/)|
+| 21 | AWS IAM | 📖 [iam](https://docs.aws.amazon.com/iam/) | ▶️ [youtu.be/SXSqhTn2DuE](https://youtu.be/SXSqhTn2DuE) | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/)|
+| 22 | AWS KMS | 📖 [kms](https://docs.aws.amazon.com/kms) | ▶️ [youtu.be/8Z0wsE2HoSo](https://youtu.be/8Z0wsE2HoSo) | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/)|
+| 23 | AWS Kinesis | 📖 [kinesis](https://docs.aws.amazon.com/kinesis/index.html) | ▶️ [youtu.be/MbEfiX4sMXc](https://youtu.be/MbEfiX4sMXc) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
+| 24 | AWS Lake Formation | 📖 [lake-formation](https://aws.amazon.com/lake-formation/) | ▶️ [youtu.be/uVF73MXYay8](https://youtu.be/uVF73MXYay8) | ❔ [lake-formation/faqs](https://aws.amazon.com/lake-formation/faqs/)|
+| 25 | AWS Lambda | 📖 [lambda](https://docs.aws.amazon.com/lambda/index.html) | ▶️ [youtu.be/eOBq__h4OJ4](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
+| 26 | AWS OpenSearch | 📖 [documentdb](https://aws.amazon.com/opensearch-service/) | ▶️ [youtu.be/cZHB7KBubWs](https://youtu.be/cZHB7KBubWs) | ❔ [documentdb/faqs](https://aws.amazon.com/opensearch-service/faqs/)|
+| 27 | AWS Outposts | 📖 [outposts](https://docs.aws.amazon.com/outposts/index.html) | ▶️ [youtu.be/ppG2FFB0mMQ](https://youtu.be/ppG2FFB0mMQ) | ❔ [outposts/faqs](https://aws.amazon.com/outposts/faqs/)|
+| 28 | AWS Pinpoint | 📖 [pinpoint](https://aws.amazon.com/pinpoint/) | ▶️ [youtu.be/qJF1pErxqKQ](https://youtu.be/qJF1pErxqKQ) | ❔ [pinpoint/faqs](https://aws.amazon.com/pinpoint/faqs/)|
+| 29 | AWS QuickSight | 📖 [quicksight](https://docs.aws.amazon.com/quicksight/) | ▶️ [youtu.be/2V1bHRLRG-w](https://youtu.be/2V1bHRLRG-w) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
+| 30 | AWS RDS | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [youtu.be/a4dhoTQCyRA](https://youtu.be/a4dhoTQCyRA) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
+| 31 | AWS Route53 | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [youtu.be/RGWgfhZByAI](https://youtu.be/RGWgfhZByAI) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
+| 32 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
+| 33 | AWS SNS | 📖 [sns](https://docs.aws.amazon.com/sns/) | ▶️ [youtu.be/8BEwZnUIZfw](https://youtu.be/8BEwZnUIZfw) | ❔ [sns/faqs](https://aws.amazon.com/sns/faqs/)|
+| 34 | AWS SQS | 📖 [sqs](https://docs.aws.amazon.com/sqs/) | ▶️ [youtu.be/Mw1NVpJsOZc](https://youtu.be/Mw1NVpJsOZc) | ❔ [sqs/faqs](https://aws.amazon.com/sqs/faqs/)|
+| 35 | AWS Secrets Manager | 📖 [secrets-manager](https://aws.amazon.com/secrets-manager/) | ▶️ [youtu.be/-9nOyaM3kZk](https://youtu.be/-9nOyaM3kZk) | ❔ [secrets-manager/faqs](https://aws.amazon.com/secrets-manager/faqs/)|
+| 36 | AWS VPC | 📖 [vpc](https://docs.aws.amazon.com/vpc/) | ▶️ [youtu.be/hiKPPy584Mg](https://youtu.be/hiKPPy584Mg) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
 
 And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐

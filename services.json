@@ -243,6 +243,13 @@
 			"service_youtube_url": "https://youtu.be/-9nOyaM3kZk",
 			"service_short_name": "secrets-manager",
 			"faq_url": "https://aws.amazon.com/secrets-manager/faqs/"
+		},
+		{
+			"service_name": "AWS Elastic Beanstalk",
+			"service_url": "https://aws.amazon.com/elasticbeanstalk/",
+			"service_youtube_url": "https://youtu.be/uiM1xzOX8Qg",
+			"service_short_name": "elasticbeanstalk",
+			"faq_url": "https://aws.amazon.com/elasticbeanstalk/faqs/"
 		}
 	]
 }
