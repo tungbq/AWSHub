@@ -40,11 +40,10 @@ Below you will find links to detailed documentation and introductory videos for 
 | 10 | AWS KMS | 📖 [kms](https://docs.aws.amazon.com/kms) | ▶️ [youtu.be/8Z0wsE2HoSo](https://youtu.be/8Z0wsE2HoSo) |
 | 11 | AWS Kinesis | 📖 [kinesis](https://docs.aws.amazon.com/kinesis/index.html) | ▶️ [youtu.be/MbEfiX4sMXc](https://youtu.be/MbEfiX4sMXc) |
 | 12 | AWS Lamda | 📖 [lamda](https://docs.aws.amazon.com/lambda/index.html) | ▶️ [youtu.be/eOBq__h4OJ4](https://youtu.be/eOBq__h4OJ4) |
-| 13 | AWS Lamda | 📖 [lamda](https://docs.aws.amazon.com/lambda/index.html) | ▶️ [youtu.be/eOBq__h4OJ4](https://youtu.be/eOBq__h4OJ4) |
-| 14 | AWS Outposts | 📖 [outposts](https://docs.aws.amazon.com/outposts/index.html) | ▶️ [youtu.be/ppG2FFB0mMQ](https://youtu.be/ppG2FFB0mMQ) |
-| 15 | AWS Pinpoint | 📖 [pinpoint](https://aws.amazon.com/pinpoint/) | ▶️ [youtu.be/qJF1pErxqKQ](https://youtu.be/qJF1pErxqKQ) |
-| 16 | AWS RDS | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [youtu.be/a4dhoTQCyRA](https://youtu.be/a4dhoTQCyRA) |
-| 17 | AWS Route53 | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [youtu.be/RGWgfhZByAI](https://youtu.be/RGWgfhZByAI) |
-| 18 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) |
+| 13 | AWS Outposts | 📖 [outposts](https://docs.aws.amazon.com/outposts/index.html) | ▶️ [youtu.be/ppG2FFB0mMQ](https://youtu.be/ppG2FFB0mMQ) |
+| 14 | AWS Pinpoint | 📖 [pinpoint](https://aws.amazon.com/pinpoint/) | ▶️ [youtu.be/qJF1pErxqKQ](https://youtu.be/qJF1pErxqKQ) |
+| 15 | AWS RDS | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [youtu.be/a4dhoTQCyRA](https://youtu.be/a4dhoTQCyRA) |
+| 16 | AWS Route53 | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [youtu.be/RGWgfhZByAI](https://youtu.be/RGWgfhZByAI) |
+| 17 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) |
 
 And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐
