@@ -180,6 +180,13 @@
 			"service_youtube_url": "https://youtu.be/sI-zciHAh-4",
 			"service_short_name": "dynamodb",
 			"faq_url": "https://aws.amazon.com/dynamodb/faqs/"
+		},
+		{
+			"service_name": "AWS QuickSight",
+			"service_url": "https://docs.aws.amazon.com/quicksight/",
+			"service_youtube_url": "https://youtu.be/2V1bHRLRG-w",
+			"service_short_name": "quicksight",
+			"faq_url": "https://aws.amazon.com/quicksight/faqs/"
 		}
 	]
 }
