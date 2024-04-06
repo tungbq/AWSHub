@@ -229,6 +229,13 @@
 			"service_youtube_url": "https://youtu.be/cZHB7KBubWs",
 			"service_short_name": "documentdb",
 			"faq_url": "https://aws.amazon.com/opensearch-service/faqs/"
+		},
+		{
+			"service_name": "AWS Lake Formation",
+			"service_url": "https://aws.amazon.com/lake-formation/",
+			"service_youtube_url": "https://youtu.be/uVF73MXYay8",
+			"service_short_name": "lakeformation",
+			"faq_url": "https://aws.amazon.com/lake-formation/faqs/"
 		}
 	]
 }
