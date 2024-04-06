@@ -7,10 +7,16 @@ services=$(jq -r '.services | sort_by(.service_name) | .[] | @base64' services.j
 services_count=$(jq '.services | length' services.json)
 echo "Total services supported: $services_count"
 
-# Clear all text after "# AWS Service Resources"
-sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
+# Save text below <!-- Learning-Resource-End --> to a temporary file
+awk '/<!-- Learning-Resource-End -->/{p=1; next} p' README.md >temp.txt
+
+# Clear all text between "<!-- Learning-Resource-Begin -->" and "<!-- Learning-Resource-End -->"
+sed -i '/<!-- Learning-Resource-Begin -->/,/<!-- Learning-Resource-End -->/d' README.md
+cat README.md
 
 # Append main section header
+echo "<!-- Learning-Resource-Begin -->" >>README.md
+echo "<!-- Do not edit the above line manually -->" >>README.md
 echo "## AWS Services Learning Resources 📘" >>README.md
 # Brief introduction
 echo "This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services" >>README.md
@@ -51,6 +57,15 @@ done
 
 echo "" >>README.md
 echo "And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐" >>README.md
+
+echo "<!-- Do not edit the below line manually -->" >>README.md
+echo "<!-- Learning-Resource-End -->" >>README.md
+
+# Append the saved text back to the end of the file
+cat temp.txt >>README.md
+
+# Remove the temporary file
+rm temp.txt
 
 echo "Check the new content in README.md"
 cat README.md
