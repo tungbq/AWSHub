@@ -12,10 +12,11 @@
 
 ## Getting started 🚀
 
-- AWS Documentation: https://docs.aws.amazon.com
-- Most Important Services: https://youtu.be/FDEpdNdFglI
-- Top 50+ AWS Services Explained in 10 Minutes: https://youtu.be/JIbIYCM48to (by **Fireship**)
-- AWS Architecture: https://aws.amazon.com/architecture
+- What is AWS? | Amazon Web Services: ➡️ [**Watch here**](https://youtu.be/a9__D53WsUs)
+- AWS Documentation: 📖 [**docs.aws.amazon.com**](https://docs.aws.amazon.com)
+- Most Important Services: ➡️ [**Watch here**](https://youtu.be/FDEpdNdFglI)
+- Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
+- AWS Architecture: 📖 [**aws.amazon.com/architecture**](https://aws.amazon.com/architecture)
 
 ## Contributing 👋
 
