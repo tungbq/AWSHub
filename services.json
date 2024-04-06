@@ -117,6 +117,13 @@
 			"service_youtube_url": "https://youtu.be/E956xeOt050",
 			"service_short_name": "eks",
 			"faq_url": "https://aws.amazon.com/eks/faqs/"
+		},
+		{
+			"service_name": "AWS IAM",
+			"service_url": "https://docs.aws.amazon.com/iam/",
+			"service_youtube_url": "https://youtu.be/SXSqhTn2DuE",
+			"service_short_name": "iam",
+			"faq_url": "https://aws.amazon.com/iam/faqs/"
 		}
 	]
 }
