@@ -166,6 +166,13 @@
 			"service_youtube_url": "https://youtu.be/vqAirwfYgrY",
 			"service_short_name": "cognito",
 			"faq_url": "https://aws.amazon.com/cognito/faqs/"
+		},
+		{
+			"service_name": "AWS ElastiCache",
+			"service_url": "https://docs.aws.amazon.com/elasticache/",
+			"service_youtube_url": "https://youtu.be/GoNsuTqeMto",
+			"service_short_name": "elasticache",
+			"faq_url": "https://aws.amazon.com/elasticache/faqs/"
 		}
 	]
 }
