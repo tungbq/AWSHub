@@ -28,7 +28,7 @@
 This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services
 - **Total services supported:** **36**
 - **AWS Docs:** Official documentation for each service
-- **YouTube Introduction:** Official short introduction videos with rich animations and diagrams to aid understanding
+- **YouTube Introduction:** Official AWS short introduction videos with rich animations and diagrams to aid understanding
 - **AWS FAQs:** Frequently asked questions about AWS services
 
 | ID | Service Name | AWS Docs | YouTube Introduction | AWS FAQs |
