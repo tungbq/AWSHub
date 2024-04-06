@@ -4,55 +4,64 @@
 			"service_name": "AWS S3",
 			"service_url": "https://docs.aws.amazon.com/s3",
 			"service_youtube_url": "https://youtu.be/77lMCiiMilo",
-			"service_short_name": "s3"
+			"service_short_name": "s3",
+			"faq_url": "https://aws.amazon.com/s3/faqs/"
 		},
 		{
 			"service_name": "AWS Pinpoint",
 			"service_url": "https://aws.amazon.com/pinpoint/",
 			"service_youtube_url": "https://youtu.be/qJF1pErxqKQ",
-			"service_short_name": "pinpoint"
+			"service_short_name": "pinpoint",
+			"faq_url": "https://aws.amazon.com/pinpoint/faqs/"
 		},
 		{
 			"service_name": "AWS Appflow",
 			"service_url": "https://docs.aws.amazon.com/appflow/index.html",
 			"service_youtube_url": "https://youtu.be/6NSxo5syl40",
-			"service_short_name": "appflow"
+			"service_short_name": "appflow",
+			"faq_url": "https://aws.amazon.com/appflow/faqs/"
 		},
 		{
 			"service_name": "AWS Kinesis",
 			"service_url": "https://docs.aws.amazon.com/kinesis/index.html",
 			"service_youtube_url": "https://youtu.be/MbEfiX4sMXc",
-			"service_short_name": "kinesis"
+			"service_short_name": "kinesis",
+			"faq_url": "https://aws.amazon.com/kinesis/faqs/"
 		},
 		{
 			"service_name": "AWS EC2",
 			"service_url": "https://docs.aws.amazon.com/ec2/",
 			"service_youtube_url": "https://youtu.be/TsRBftzZsQo",
-			"service_short_name": "ec2"
+			"service_short_name": "ec2",
+			"faq_url": "https://aws.amazon.com/ec2/faqs/"
 		},
 		{
 			"service_name": "AWS CloudWatch",
 			"service_url": "https://docs.aws.amazon.com/cloudwatch/",
 			"service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
-			"service_short_name": "cloudwatch"
+			"service_short_name": "cloudwatch",
+			"faq_url": "https://aws.amazon.com/cloudwatch/faqs/"
 		},
 		{
 			"service_name": "AWS RDS",
 			"service_url": "https://docs.aws.amazon.com/rds",
 			"service_youtube_url": "https://youtu.be/a4dhoTQCyRA",
-			"service_short_name": "rds"
+			"service_short_name": "rds",
+			"faq_url": "https://aws.amazon.com/rds/faqs/"
 		},
 		{
 			"service_name": "AWS ControlTower ",
 			"service_url": "https://docs.aws.amazon.com/controltower",
 			"service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
-			"service_short_name": "controltower"
+			"service_short_name": "controltower",
+			"faq_url": "https://aws.amazon.com/controltower/faqs/"
 		},
 		{
 			"service_name": "AWS Route53",
 			"service_url": "https://docs.aws.amazon.com/route53",
 			"service_youtube_url": "https://youtu.be/RGWgfhZByAI",
-			"service_short_name": "route53"
+			"service_short_name": "route53",
+			"faq_url": "https://aws.amazon.com/route53/faqs/"
 		},
 		{
 			"service_name": "AWS Cloudfront",
@@ -61,46 +70,53 @@
 			"service_short_name": "cloudfront"
 		},
 		{
-			"service_name": "AWS Lamda",
+			"service_name": "AWS Lambda",
 			"service_url": "https://docs.aws.amazon.com/lambda/index.html",
 			"service_youtube_url": "https://youtu.be/eOBq__h4OJ4",
-			"service_short_name": "lamda"
+			"service_short_name": "lambda",
+			"faq_url": "https://aws.amazon.com/lambda/faqs/"
 		},
 		{
 			"service_name": "AWS KMS",
 			"service_url": "https://docs.aws.amazon.com/kms",
 			"service_youtube_url": "https://youtu.be/8Z0wsE2HoSo",
-			"service_short_name": "kms"
+			"service_short_name": "kms",
+			"faq_url": "https://aws.amazon.com/kms/faqs/"
 		},
 		{
 			"service_name": "AWS ACM",
 			"service_url": "https://docs.aws.amazon.com/acm",
 			"service_youtube_url": "https://youtu.be/Nk77te-cksQ",
-			"service_short_name": "acm"
+			"service_short_name": "acm",
+			"faq_url": "https://aws.amazon.com/certificate-manager/faqs/"
 		},
 		{
 			"service_name": "AWS Outposts",
 			"service_url": "https://docs.aws.amazon.com/outposts/index.html",
 			"service_youtube_url": "https://youtu.be/ppG2FFB0mMQ",
-			"service_short_name": "outposts"
+			"service_short_name": "outposts",
+			"faq_url": "https://aws.amazon.com/outposts/faqs/"
 		},
 		{
 			"service_name": "AWS CodeCommit",
 			"service_url": "https://docs.aws.amazon.com/codecommit",
 			"service_youtube_url": "https://youtu.be/46PRLMW8otg",
-			"service_short_name": "codecommit"
+			"service_short_name": "codecommit",
+			"faq_url": "https://aws.amazon.com/codecommit/faqs/"
 		},
 		{
 			"service_name": "AWS ECS",
 			"service_url": "https://docs.aws.amazon.com/ecs/",
 			"service_youtube_url": "https://youtu.be/FnFvpIsBrog",
-			"service_short_name": "ecs"
+			"service_short_name": "ecs",
+			"faq_url": "https://aws.amazon.com/ecs/faqs/"
 		},
 		{
 			"service_name": "AWS EKS",
 			"service_url": "https://docs.aws.amazon.com/eks/",
 			"service_youtube_url": "https://youtu.be/E956xeOt050",
-			"service_short_name": "eks"
+			"service_short_name": "eks",
+			"faq_url": "https://aws.amazon.com/eks/faqs/"
 		}
 	]
 }
