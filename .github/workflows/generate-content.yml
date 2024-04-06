@@ -28,7 +28,7 @@ jobs:
         run: sudo apt-get install jq -y
 
       - name: Generate Content
-        run: bash generate-content.sh
+        run: set -e; bash generate-content.sh
 
       - name: Commit changes
         run: |
