@@ -28,11 +28,11 @@
 This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services
 - **Total services supported:** **36**
 - **AWS Docs:** Official documentation for each service
-- **YouTube Introduction:** AWS short introduction videos with rich animations and diagrams to aid understanding
+- **Introduction (Youtube):** AWS short introduction videos with rich animations and diagrams to aid understanding
 - **AWS FAQs:** Frequently asked questions about AWS services
 
-| ID | Service Name | AWS Docs | YouTube Introduction | AWS FAQs |
-|----|--------------|----------|---------------------|---------|
+| ID | Service Name | AWS Docs | Introduction | AWS FAQs |
+|----|--------------|----------|--------------|----------|
 | 1 | AWS ACM | 📖 [acm](https://docs.aws.amazon.com/acm) | ▶️ [Watch](https://youtu.be/Nk77te-cksQ) | ❔ [acm/faqs](https://aws.amazon.com/certificate-manager/faqs/)|
 | 2 | AWS Appflow | 📖 [appflow](https://docs.aws.amazon.com/appflow/index.html) | ▶️ [Watch](https://youtu.be/6NSxo5syl40) | ❔ [appflow/faqs](https://aws.amazon.com/appflow/faqs/)|
 | 3 | AWS Aurora | 📖 [aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide) | ▶️ [Watch](https://youtu.be/FzxqIdIZ9wc) | ❔ [aurora/faqs](https://aws.amazon.com/rds/aurora/faqs/)|
