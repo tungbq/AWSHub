@@ -43,7 +43,7 @@ for service in $services; do
   youtube_id=$(echo "$youtube_url" | sed 's~https://youtu.be/~~')
 
   # Update the service README.md content
-  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ▶️ [youtu.be/$youtube_id](https://youtu.be/$youtube_id) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
+  echo "| $id | $service_name | 📖 [$service_short_name]($url) | ▶️ [Watch](https://youtu.be/$youtube_id) | ❔ [$service_short_name/faqs]($faq_url)|" >>README.md
 
   # Increment ID
   ((id++))
