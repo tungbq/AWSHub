@@ -152,6 +152,13 @@
 			"service_youtube_url": "https://youtu.be/Mw1NVpJsOZc",
 			"service_short_name": "sqs",
 			"faq_url": "https://aws.amazon.com/sqs/faqs/"
+		},
+		{
+			"service_name": "AWS SNS",
+			"service_url": "https://docs.aws.amazon.com/sns/",
+			"service_youtube_url": "https://youtu.be/8BEwZnUIZfw",
+			"service_short_name": "sns",
+			"faq_url": "https://aws.amazon.com/sns/faqs/"
 		}
 	]
 }
