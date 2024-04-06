@@ -117,6 +117,97 @@
 			"service_youtube_url": "https://youtu.be/E956xeOt050",
 			"service_short_name": "eks",
 			"faq_url": "https://aws.amazon.com/eks/faqs/"
+		},
+		{
+			"service_name": "AWS IAM",
+			"service_url": "https://docs.aws.amazon.com/iam/",
+			"service_youtube_url": "https://youtu.be/SXSqhTn2DuE",
+			"service_short_name": "iam",
+			"faq_url": "https://aws.amazon.com/iam/faqs/"
+		},
+		{
+			"service_name": "AWS EFS",
+			"service_url": "https://docs.aws.amazon.com/efs/",
+			"service_youtube_url": "https://youtu.be/6ZIPBC78U0s",
+			"service_short_name": "efs",
+			"faq_url": "https://aws.amazon.com/efs/faq/"
+		},
+		{
+			"service_name": "AWS EBS",
+			"service_url": "https://docs.aws.amazon.com/ebs/",
+			"service_youtube_url": "https://youtu.be/77qLAl-lRpo",
+			"service_short_name": "ebs",
+			"faq_url": "https://aws.amazon.com/ebs/faqs/"
+		},
+		{
+			"service_name": "AWS Aurora",
+			"service_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide",
+			"service_youtube_url": "https://youtu.be/FzxqIdIZ9wc",
+			"service_short_name": "aurora",
+			"faq_url": "https://aws.amazon.com/rds/aurora/faqs/"
+		},
+		{
+			"service_name": "AWS SQS",
+			"service_url": "https://docs.aws.amazon.com/sqs/",
+			"service_youtube_url": "https://youtu.be/Mw1NVpJsOZc",
+			"service_short_name": "sqs",
+			"faq_url": "https://aws.amazon.com/sqs/faqs/"
+		},
+		{
+			"service_name": "AWS SNS",
+			"service_url": "https://docs.aws.amazon.com/sns/",
+			"service_youtube_url": "https://youtu.be/8BEwZnUIZfw",
+			"service_short_name": "sns",
+			"faq_url": "https://aws.amazon.com/sns/faqs/"
+		},
+		{
+			"service_name": "AWS Cognito",
+			"service_url": "https://docs.aws.amazon.com/cognito/",
+			"service_youtube_url": "https://youtu.be/vqAirwfYgrY",
+			"service_short_name": "cognito",
+			"faq_url": "https://aws.amazon.com/cognito/faqs/"
+		},
+		{
+			"service_name": "AWS ElastiCache",
+			"service_url": "https://docs.aws.amazon.com/elasticache/",
+			"service_youtube_url": "https://youtu.be/GoNsuTqeMto",
+			"service_short_name": "elasticache",
+			"faq_url": "https://aws.amazon.com/elasticache/faqs/"
+		},
+		{
+			"service_name": "AWS DynamoDB",
+			"service_url": "https://docs.aws.amazon.com/dynamodb/",
+			"service_youtube_url": "https://youtu.be/sI-zciHAh-4",
+			"service_short_name": "dynamodb",
+			"faq_url": "https://aws.amazon.com/dynamodb/faqs/"
+		},
+		{
+			"service_name": "AWS QuickSight",
+			"service_url": "https://docs.aws.amazon.com/quicksight/",
+			"service_youtube_url": "https://youtu.be/2V1bHRLRG-w",
+			"service_short_name": "quicksight",
+			"faq_url": "https://aws.amazon.com/quicksight/faqs/"
+		},
+		{
+			"service_name": "AWS EMR",
+			"service_url": "https://docs.aws.amazon.com/emr/",
+			"service_youtube_url": "https://youtu.be/QuwaBOESGiU",
+			"service_short_name": "emr",
+			"faq_url": "https://aws.amazon.com/emr/faqs/"
+		},
+		{
+			"service_name": "AWS CloudTrail",
+			"service_url": "https://docs.aws.amazon.com/cloudtrail/",
+			"service_youtube_url": "https://youtu.be/mXQSnbc9jMs",
+			"service_short_name": "cloudtrail",
+			"faq_url": "https://aws.amazon.com/cloudtrail/faqs/"
+		},
+		{
+			"service_name": "AWS Config",
+			"service_url": "https://docs.aws.amazon.com/config/",
+			"service_youtube_url": "https://youtu.be/MJDuAvNEv64",
+			"service_short_name": "config",
+			"faq_url": "https://aws.amazon.com/config/faqs/"
 		}
 	]
 }
