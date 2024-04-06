@@ -201,6 +201,13 @@
 			"service_youtube_url": "https://youtu.be/mXQSnbc9jMs",
 			"service_short_name": "cloudtrail",
 			"faq_url": "https://aws.amazon.com/cloudtrail/faqs/"
+		},
+		{
+			"service_name": "AWS Config",
+			"service_url": "https://docs.aws.amazon.com/config/",
+			"service_youtube_url": "https://youtu.be/MJDuAvNEv64",
+			"service_short_name": "config",
+			"faq_url": "https://aws.amazon.com/config/faqs/"
 		}
 	]
 }
