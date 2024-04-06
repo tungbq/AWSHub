@@ -124,6 +124,13 @@
 			"service_youtube_url": "https://youtu.be/SXSqhTn2DuE",
 			"service_short_name": "iam",
 			"faq_url": "https://aws.amazon.com/iam/faqs/"
+		},
+		{
+			"service_name": "AWS EFS",
+			"service_url": "https://docs.aws.amazon.com/efs/",
+			"service_youtube_url": "https://youtu.be/6ZIPBC78U0s",
+			"service_short_name": "efs",
+			"faq_url": "https://aws.amazon.com/efs/faq/"
 		}
 	]
 }
