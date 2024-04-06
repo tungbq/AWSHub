@@ -215,6 +215,13 @@
 			"service_youtube_url": "https://youtu.be/hiKPPy584Mg",
 			"service_short_name": "vpc",
 			"faq_url": "https://aws.amazon.com/vpc/faqs/"
+		},
+		{
+			"service_name": "AWS DocumentDB",
+			"service_url": "https://docs.aws.amazon.com/documentdb/",
+			"service_youtube_url": "https://youtu.be/tkzDp9T8V-k",
+			"service_short_name": "documentdb",
+			"faq_url": "https://aws.amazon.com/documentdb/faqs/"
 		}
 	]
 }
