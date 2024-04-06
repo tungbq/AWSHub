@@ -12,6 +12,8 @@ sed -i '/## AWS Services Learning Resources 📘/,$d' README.md
 
 # Append main section header
 echo "## AWS Services Learning Resources 📘" >>README.md
+# Brief introduction
+echo "This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services" >>README.md
 
 # Overview subsection
 echo "### Overview" >>README.md
@@ -21,12 +23,6 @@ echo "- **YouTube Introduction:** Official introduction videos with rich animati
 echo "- **AWS FAQs:** Frequently asked questions about AWS services" >>README.md
 
 echo "" >>README.md
-
-# Content subsection
-echo "### Content" >>README.md
-# Brief introduction
-echo "This section provides links to detailed documentation and introduction videos for popular AWS services." >>README.md
-
 echo "| ID | Service Name | AWS Docs | YouTube Introduction | AWS FAQs |" >>README.md
 echo "|----|--------------|----------|---------------------|---------|" >>README.md
 
