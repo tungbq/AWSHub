@@ -222,6 +222,13 @@
 			"service_youtube_url": "https://youtu.be/tkzDp9T8V-k",
 			"service_short_name": "documentdb",
 			"faq_url": "https://aws.amazon.com/documentdb/faqs/"
+		},
+		{
+			"service_name": "AWS OpenSearch",
+			"service_url": "https://aws.amazon.com/opensearch-service/",
+			"service_youtube_url": "https://youtu.be/cZHB7KBubWs",
+			"service_short_name": "documentdb",
+			"faq_url": "https://aws.amazon.com/opensearch-service/faqs/"
 		}
 	]
 }
