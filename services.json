@@ -173,6 +173,13 @@
 			"service_youtube_url": "https://youtu.be/GoNsuTqeMto",
 			"service_short_name": "elasticache",
 			"faq_url": "https://aws.amazon.com/elasticache/faqs/"
+		},
+		{
+			"service_name": "AWS DynamoDB",
+			"service_url": "https://docs.aws.amazon.com/dynamodb/",
+			"service_youtube_url": "https://youtu.be/sI-zciHAh-4",
+			"service_short_name": "dynamodb",
+			"faq_url": "https://aws.amazon.com/dynamodb/faqs/"
 		}
 	]
 }
