@@ -159,6 +159,13 @@
 			"service_youtube_url": "https://youtu.be/8BEwZnUIZfw",
 			"service_short_name": "sns",
 			"faq_url": "https://aws.amazon.com/sns/faqs/"
+		},
+		{
+			"service_name": "AWS Cognito",
+			"service_url": "https://docs.aws.amazon.com/cognito/",
+			"service_youtube_url": "https://youtu.be/abTy-Yyo6lI",
+			"service_short_name": "cognito",
+			"faq_url": "https://aws.amazon.com/cognito/faqs/"
 		}
 	]
 }
