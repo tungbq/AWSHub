@@ -25,7 +25,6 @@
 - Feel free to open a new issue if you want to request more content about AWS service learning resource
 
 ## AWS Services Learning Resources 📘
-This section will help you find links to detailed documentation and introduction videos for some popular AWS services
 ### Overview
 - **Total services supported:** 31
 - **AWS Docs:** The official AWS document for each service
@@ -33,6 +32,7 @@ This section will help you find links to detailed documentation and introduction
 - **AWS FAQs:** Find frequently asked questions about AWS services
 
 ### Content
+This section will help you find links to detailed documentation and introduction videos for some popular AWS services
 | ID | Service Name | AWS Docs | Youtube Introduction | AWS FAQs |
 |----|--------------|----------|---------------------|-----|
 | 1 | AWS ACM | 📖 [acm](https://docs.aws.amazon.com/acm) | ▶️ [youtu.be/Nk77te-cksQ](https://youtu.be/Nk77te-cksQ) | ❔ [acm/faqs](https://aws.amazon.com/certificate-manager/faqs/)|
