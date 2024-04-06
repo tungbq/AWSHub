@@ -194,6 +194,13 @@
 			"service_youtube_url": "https://youtu.be/QuwaBOESGiU",
 			"service_short_name": "quicksight",
 			"faq_url": "https://aws.amazon.com/emr/faqs/"
+		},
+		{
+			"service_name": "AWS CloudTrail",
+			"service_url": "https://docs.aws.amazon.com/cloudtrail/",
+			"service_youtube_url": "https://youtu.be/mXQSnbc9jMs",
+			"service_short_name": "cloudtrail",
+			"faq_url": "https://aws.amazon.com/cloudtrail/faqs/"
 		}
 	]
 }
