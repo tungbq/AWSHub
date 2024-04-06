@@ -1,6 +1,6 @@
-<h1 align="center">AWS Learning Resource</h1>
+<h1 align="center">AWSHub</h1>
 
-<p align="center">Welcome to the AWS Learning Resources Repository 👋</p>
+<p align="center">Welcome to the AWS Hub Repository 👋</p>
 <p align="center">This repository aims to collect free learning resources for AWS services to help beginners get started with Amazon Web Services 🔥</p>
 
 <p align="center">
