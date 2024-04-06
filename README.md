@@ -42,17 +42,19 @@ Below you will find links to detailed documentation and introductory videos for 
 | 12 | AWS ECS | 📖 [ecs](https://docs.aws.amazon.com/ecs/) | ▶️ [youtu.be/FnFvpIsBrog](https://youtu.be/FnFvpIsBrog) | ❔ [ecs/faqs](https://aws.amazon.com/ecs/faqs/)|
 | 13 | AWS EFS | 📖 [efs](https://docs.aws.amazon.com/efs/) | ▶️ [youtu.be/6ZIPBC78U0s](https://youtu.be/6ZIPBC78U0s) | ❔ [efs/faqs](https://aws.amazon.com/efs/faq/)|
 | 14 | AWS EKS | 📖 [eks](https://docs.aws.amazon.com/eks/) | ▶️ [youtu.be/E956xeOt050](https://youtu.be/E956xeOt050) | ❔ [eks/faqs](https://aws.amazon.com/eks/faqs/)|
-| 15 | AWS ElastiCache | 📖 [elasticache](https://docs.aws.amazon.com/elasticache/) | ▶️ [youtu.be/GoNsuTqeMto](https://youtu.be/GoNsuTqeMto) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
-| 16 | AWS IAM | 📖 [iam](https://docs.aws.amazon.com/iam/) | ▶️ [youtu.be/SXSqhTn2DuE](https://youtu.be/SXSqhTn2DuE) | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/)|
-| 17 | AWS KMS | 📖 [kms](https://docs.aws.amazon.com/kms) | ▶️ [youtu.be/8Z0wsE2HoSo](https://youtu.be/8Z0wsE2HoSo) | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/)|
-| 18 | AWS Kinesis | 📖 [kinesis](https://docs.aws.amazon.com/kinesis/index.html) | ▶️ [youtu.be/MbEfiX4sMXc](https://youtu.be/MbEfiX4sMXc) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
-| 19 | AWS Lambda | 📖 [lambda](https://docs.aws.amazon.com/lambda/index.html) | ▶️ [youtu.be/eOBq__h4OJ4](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
-| 20 | AWS Outposts | 📖 [outposts](https://docs.aws.amazon.com/outposts/index.html) | ▶️ [youtu.be/ppG2FFB0mMQ](https://youtu.be/ppG2FFB0mMQ) | ❔ [outposts/faqs](https://aws.amazon.com/outposts/faqs/)|
-| 21 | AWS Pinpoint | 📖 [pinpoint](https://aws.amazon.com/pinpoint/) | ▶️ [youtu.be/qJF1pErxqKQ](https://youtu.be/qJF1pErxqKQ) | ❔ [pinpoint/faqs](https://aws.amazon.com/pinpoint/faqs/)|
-| 22 | AWS RDS | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [youtu.be/a4dhoTQCyRA](https://youtu.be/a4dhoTQCyRA) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
-| 23 | AWS Route53 | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [youtu.be/RGWgfhZByAI](https://youtu.be/RGWgfhZByAI) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
-| 24 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
-| 25 | AWS SNS | 📖 [sns](https://docs.aws.amazon.com/sns/) | ▶️ [youtu.be/8BEwZnUIZfw](https://youtu.be/8BEwZnUIZfw) | ❔ [sns/faqs](https://aws.amazon.com/sns/faqs/)|
-| 26 | AWS SQS | 📖 [sqs](https://docs.aws.amazon.com/sqs/) | ▶️ [youtu.be/Mw1NVpJsOZc](https://youtu.be/Mw1NVpJsOZc) | ❔ [sqs/faqs](https://aws.amazon.com/sqs/faqs/)|
+| 15 | AWS EMR | 📖 [quicksight](https://docs.aws.amazon.com/emr/) | ▶️ [youtu.be/QuwaBOESGiU](https://youtu.be/QuwaBOESGiU) | ❔ [quicksight/faqs](https://aws.amazon.com/emr/faqs/)|
+| 16 | AWS ElastiCache | 📖 [elasticache](https://docs.aws.amazon.com/elasticache/) | ▶️ [youtu.be/GoNsuTqeMto](https://youtu.be/GoNsuTqeMto) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
+| 17 | AWS IAM | 📖 [iam](https://docs.aws.amazon.com/iam/) | ▶️ [youtu.be/SXSqhTn2DuE](https://youtu.be/SXSqhTn2DuE) | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/)|
+| 18 | AWS KMS | 📖 [kms](https://docs.aws.amazon.com/kms) | ▶️ [youtu.be/8Z0wsE2HoSo](https://youtu.be/8Z0wsE2HoSo) | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/)|
+| 19 | AWS Kinesis | 📖 [kinesis](https://docs.aws.amazon.com/kinesis/index.html) | ▶️ [youtu.be/MbEfiX4sMXc](https://youtu.be/MbEfiX4sMXc) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
+| 20 | AWS Lambda | 📖 [lambda](https://docs.aws.amazon.com/lambda/index.html) | ▶️ [youtu.be/eOBq__h4OJ4](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
+| 21 | AWS Outposts | 📖 [outposts](https://docs.aws.amazon.com/outposts/index.html) | ▶️ [youtu.be/ppG2FFB0mMQ](https://youtu.be/ppG2FFB0mMQ) | ❔ [outposts/faqs](https://aws.amazon.com/outposts/faqs/)|
+| 22 | AWS Pinpoint | 📖 [pinpoint](https://aws.amazon.com/pinpoint/) | ▶️ [youtu.be/qJF1pErxqKQ](https://youtu.be/qJF1pErxqKQ) | ❔ [pinpoint/faqs](https://aws.amazon.com/pinpoint/faqs/)|
+| 23 | AWS QuickSight | 📖 [quicksight](https://docs.aws.amazon.com/quicksight/) | ▶️ [youtu.be/2V1bHRLRG-w](https://youtu.be/2V1bHRLRG-w) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
+| 24 | AWS RDS | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [youtu.be/a4dhoTQCyRA](https://youtu.be/a4dhoTQCyRA) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
+| 25 | AWS Route53 | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [youtu.be/RGWgfhZByAI](https://youtu.be/RGWgfhZByAI) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
+| 26 | AWS S3 | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [youtu.be/77lMCiiMilo](https://youtu.be/77lMCiiMilo) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
+| 27 | AWS SNS | 📖 [sns](https://docs.aws.amazon.com/sns/) | ▶️ [youtu.be/8BEwZnUIZfw](https://youtu.be/8BEwZnUIZfw) | ❔ [sns/faqs](https://aws.amazon.com/sns/faqs/)|
+| 28 | AWS SQS | 📖 [sqs](https://docs.aws.amazon.com/sqs/) | ▶️ [youtu.be/Mw1NVpJsOZc](https://youtu.be/Mw1NVpJsOZc) | ❔ [sqs/faqs](https://aws.amazon.com/sqs/faqs/)|
 
 And **more upcoming services content...⏩** you can star/follow this repository to get more up-to-dated content ⭐
