@@ -18,13 +18,6 @@
 - Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
 - AWS Architecture: 📖 [**aws.amazon.com/architecture**](https://aws.amazon.com/architecture)
 
-
-## Contributing 👋
-
-- See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
-- If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
-- Looking for the issue to work on? Check the list of our open [**good first issue**](https://github.com/tungbq/AWS-LearningResource/labels/good%20first%20issue) issues
-- Feel free to open a new issue if you want to request more content about AWS service learning resource
 <!-- Learning-Resource-Begin -->
 <!-- Do not edit the above line manually -->
 ## AWS Services Learning Resources 📘
