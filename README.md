@@ -44,7 +44,7 @@ Below you will find links to detailed documentation and introductory videos for 
 | 14 | AWS ECS | 📖 [ecs](https://docs.aws.amazon.com/ecs/) | ▶️ [youtu.be/FnFvpIsBrog](https://youtu.be/FnFvpIsBrog) | ❔ [ecs/faqs](https://aws.amazon.com/ecs/faqs/)|
 | 15 | AWS EFS | 📖 [efs](https://docs.aws.amazon.com/efs/) | ▶️ [youtu.be/6ZIPBC78U0s](https://youtu.be/6ZIPBC78U0s) | ❔ [efs/faqs](https://aws.amazon.com/efs/faq/)|
 | 16 | AWS EKS | 📖 [eks](https://docs.aws.amazon.com/eks/) | ▶️ [youtu.be/E956xeOt050](https://youtu.be/E956xeOt050) | ❔ [eks/faqs](https://aws.amazon.com/eks/faqs/)|
-| 17 | AWS EMR | 📖 [quicksight](https://docs.aws.amazon.com/emr/) | ▶️ [youtu.be/QuwaBOESGiU](https://youtu.be/QuwaBOESGiU) | ❔ [quicksight/faqs](https://aws.amazon.com/emr/faqs/)|
+| 17 | AWS EMR | 📖 [emr](https://docs.aws.amazon.com/emr/) | ▶️ [youtu.be/QuwaBOESGiU](https://youtu.be/QuwaBOESGiU) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
 | 18 | AWS ElastiCache | 📖 [elasticache](https://docs.aws.amazon.com/elasticache/) | ▶️ [youtu.be/GoNsuTqeMto](https://youtu.be/GoNsuTqeMto) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
 | 19 | AWS IAM | 📖 [iam](https://docs.aws.amazon.com/iam/) | ▶️ [youtu.be/SXSqhTn2DuE](https://youtu.be/SXSqhTn2DuE) | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/)|
 | 20 | AWS KMS | 📖 [kms](https://docs.aws.amazon.com/kms) | ▶️ [youtu.be/8Z0wsE2HoSo](https://youtu.be/8Z0wsE2HoSo) | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/)|

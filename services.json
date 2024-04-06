@@ -192,7 +192,7 @@
 			"service_name": "AWS EMR",
 			"service_url": "https://docs.aws.amazon.com/emr/",
 			"service_youtube_url": "https://youtu.be/QuwaBOESGiU",
-			"service_short_name": "quicksight",
+			"service_short_name": "emr",
 			"faq_url": "https://aws.amazon.com/emr/faqs/"
 		},
 		{
