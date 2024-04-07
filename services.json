@@ -278,6 +278,13 @@
 			"service_youtube_url": "https://youtu.be/ZfIkcCaPm14",
 			"service_short_name": "eventbridge",
 			"faq_url": "https://aws.amazon.com/eventbridge/faqs/"
+		},
+		{
+			"service_name": "AWS GuardDuty",
+			"service_url": "https://aws.amazon.com/guardduty/",
+			"service_youtube_url": "https://youtu.be/ng14ToMXnTA",
+			"service_short_name": "guardduty",
+			"faq_url": "https://aws.amazon.com/guardduty/faqs/"
 		}
 	]
 }
