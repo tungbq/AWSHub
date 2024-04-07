@@ -1,7 +1,7 @@
 <h1 align="center">AWS Hub ☁️</h1>
 
 <p align="center">Welcome to the AWS Hub Repository 👋</p>
-<p align="center">This repository aims to collect various learning resources and documents for Amazon Web Services 🔥</p>
+<p align="center">Whether you're a new member of the AWS community or a developer/cloud engineer seeking a centralized document hub for all things AWS, this repository will assist you. Consider this repository as your bookmark for all essential AWS resources, including AWS Certification materials, documentation for AWS services, and AWS Architecture insights. 🔥</p>
 
 <p align="center">
 <a href="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main" /></a>
@@ -17,6 +17,7 @@
 - Most Important Services: ➡️ [**Watch here**](https://youtu.be/FDEpdNdFglI)
 - Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
 - AWS Architecture: 📖 [**Explore here**](https://aws.amazon.com/architecture)
+- AWS Management Console: [**Explore here**](https://aws.amazon.com/console/)
 
 <!-- Learning-Resource-Begin -->
 <!-- Do not edit the above line manually -->
@@ -145,7 +146,8 @@ Visit [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebser
 ## What's Next? ❔
 
 - I'll continue maintaining this repository and updating the resources.
-- Stay tuned for more valuable content as I continuously add the latest resources and updates. ⏩ You could star/watch this repository to stay updated with the latest content! ⭐
+- Stay tuned for more valuable content as I continuously add the latest resources and updates.
+- ⏩ You could star ⭐/watch 👀 this repository to stay updated with the latest content!
 
 ## Contributing 👋
 
