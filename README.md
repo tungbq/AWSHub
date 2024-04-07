@@ -77,7 +77,7 @@ And **more upcoming services content...⏩** you can star/follow this repository
 <!-- Do not edit the below line manually -->
 <!-- Learning-Resource-End -->
 
-## AWS Certification resources 💯
+## AWS Certification Resources 💯
 
 Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
 
