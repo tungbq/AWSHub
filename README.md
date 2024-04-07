@@ -124,6 +124,7 @@ Discover the architecture of Amazon Web Services, where services seamlessly comb
 - **This is My Architecture**: An official Youtube video series by AWS that showcases innovative architectural solutions on the AWS Cloud by customers and partners. Each episode examines the most interesting and technically creative elements of each cloud architecture. Watch the series 📺 [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
   - For example: [Nielsen - Processing 55TB of Data Per Day with AWS Lambda](https://youtu.be/Jkx6kVbDpL4)
+
     ![](./assets/this-is-my-architecture-sample.png)
 
 - **AWS Well-Architected Framework:** Learn about AWS best practices for building secure, high-performing, resilient, and efficient infrastructure for your applications. Access the framework 📖 [**here**](https://aws.amazon.com/architecture/well-architected/)
