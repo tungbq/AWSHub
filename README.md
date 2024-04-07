@@ -122,7 +122,7 @@ The link below acts like a bookmark, helping you recap the service via a short i
 
 - [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) brings in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.
 
-Explore the [**certification document**](./certification/) for detailed resources on each certification, such as AWS-SAA-C03 and more.
+➡️ Explore the [**certification document**](./certification/) for detailed resources on each certification, such as AWS-SAA-C03 and more.
 
 ## AWS Architecture ✒️
 
