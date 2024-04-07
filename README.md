@@ -74,6 +74,13 @@ And **more upcoming services content...⏩** you can star/follow this repository
 
 Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
 
+#### Free Exam Preparation
+
+- Certification exam preparation by AWS: [here](https://aws.amazon.com/certification/certification-prep/)
+- Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+
 #### Course
 
 - Stephane Maarek: https://www.udemy.com/user/stephane-maarek/
@@ -85,13 +92,6 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 
 - Free learn-cantrill-io-labs: https://github.com/acantril/learn-cantrill-io-labs
 - Free AWS Cloud Complete Bootcamp Course: https://youtu.be/zA8guDqfv40
-
-#### Free Exam Preparation
-
-- Certification exam preparation by AWS: [here](https://aws.amazon.com/certification/certification-prep/)
-- Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
-  - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-  - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
 #### Practice Tests
 
