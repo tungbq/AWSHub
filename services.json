@@ -271,6 +271,13 @@
 			"service_youtube_url": "https://youtu.be/jPRquig6Nrw",
 			"service_short_name": "datasync",
 			"faq_url": "https://aws.amazon.com/datasync/faqs/"
+		},
+		{
+			"service_name": "AWS EventBridge",
+			"service_url": "https://aws.amazon.com/eventbridge/",
+			"service_youtube_url": "https://youtu.be/ZfIkcCaPm14",
+			"service_short_name": "eventbridge",
+			"faq_url": "https://aws.amazon.com/eventbridge/faqs/"
 		}
 	]
 }
