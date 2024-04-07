@@ -227,7 +227,7 @@
 			"service_name": "AWS OpenSearch",
 			"service_url": "https://aws.amazon.com/opensearch-service/",
 			"service_youtube_url": "https://youtu.be/cZHB7KBubWs",
-			"service_short_name": "documentdb",
+			"service_short_name": "opensearch-service",
 			"faq_url": "https://aws.amazon.com/opensearch-service/faqs/"
 		},
 		{
@@ -250,6 +250,48 @@
 			"service_youtube_url": "https://youtu.be/uiM1xzOX8Qg",
 			"service_short_name": "elasticbeanstalk",
 			"faq_url": "https://aws.amazon.com/elasticbeanstalk/faqs/"
+		},
+		{
+			"service_name": "AWS Glue",
+			"service_url": "https://aws.amazon.com/glue/",
+			"service_youtube_url": "https://youtu.be/u14iVEc-C6E",
+			"service_short_name": "glue",
+			"faq_url": "https://aws.amazon.com/glue/faqs/"
+		},
+		{
+			"service_name": "AWS Machine Learning",
+			"service_url": "https://aws.amazon.com/machine-learning/",
+			"service_youtube_url": "https://youtu.be/EhExK4JgXvE",
+			"service_short_name": "machine-learning",
+			"faq_url": "https://aws.amazon.com/faqs/"
+		},
+		{
+			"service_name": "AWS DataSync",
+			"service_url": "https://aws.amazon.com/datasync/",
+			"service_youtube_url": "https://youtu.be/jPRquig6Nrw",
+			"service_short_name": "datasync",
+			"faq_url": "https://aws.amazon.com/datasync/faqs/"
+		},
+		{
+			"service_name": "AWS EventBridge",
+			"service_url": "https://aws.amazon.com/eventbridge/",
+			"service_youtube_url": "https://youtu.be/ZfIkcCaPm14",
+			"service_short_name": "eventbridge",
+			"faq_url": "https://aws.amazon.com/eventbridge/faqs/"
+		},
+		{
+			"service_name": "AWS GuardDuty",
+			"service_url": "https://aws.amazon.com/guardduty/",
+			"service_youtube_url": "https://youtu.be/ng14ToMXnTA",
+			"service_short_name": "guardduty",
+			"faq_url": "https://aws.amazon.com/guardduty/faqs/"
+		},
+		{
+			"service_name": "AWS WAF",
+			"service_url": "https://aws.amazon.com/waf/",
+			"service_youtube_url": "https://youtu.be/nUI7G9UzyN8",
+			"service_short_name": "waf",
+			"faq_url": "https://aws.amazon.com/waf/faqs/"
 		}
 	]
 }
