@@ -10,7 +10,7 @@
 
 ## AWS Services Learning Resources
 
-- https://github.com/tungbq/AWSHub?tab=readme-ov-file#aws-services-learning-resources-
+- https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-
 
 ## AWS Solutions Architect Associate Cheat Sheets - by DigitalCloud Training
 

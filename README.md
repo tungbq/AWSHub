@@ -84,7 +84,7 @@ You're getting ready for the AWS Certification Exam. Here are my top personal ch
 #### Free Exam Preparation
 
 - Certification exam preparation by AWS: [here](https://aws.amazon.com/certification/certification-prep/)
-- Check the Exam Guide to understand the purpose and area and examples of each certification, for example:
+- Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
   - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
   - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
@@ -98,6 +98,12 @@ You're getting ready for the AWS Certification Exam. Here are my top personal ch
 
 - Digital Cloud Training- AWS Cheat Sheets: https://digitalcloud.training/aws-cheat-sheets/
 - TutorialsDojo - AWS Cheat Sheets: https://tutorialsdojo.com/aws-cheat-sheets/
+
+## AWS Services Learning Resources
+
+The link below acts like a bookmark, helping you recap the service via a short introduction video and providing documents, frequently asked questions you could refer to during the exam test.
+
+- https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-
 
 #### AWS Certifications Sub-Reddit
 
