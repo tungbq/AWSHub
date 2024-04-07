@@ -74,36 +74,36 @@ And **more upcoming services content...⏩** you can star/follow this repository
 
 You're getting ready for the AWS Certification Exam. Here are my top personal choices for starting resources:
 
-**Course:**
+#### Course
 
 - Youtube freeCodeCamp.org: https://youtu.be/NhDYbskXRgc
 - Stephane Maarek: https://www.udemy.com/user/stephane-maarek/
 - Jon Bonso: https://www.udemy.com/user/jonjonbonso/
 - Adrian Cantrill: https://learn.cantrill.io/
 
-**Free Exam Preparation:**
+#### Free Exam Preparation
 
 - Certification exam preparation by AWS: [here](https://aws.amazon.com/certification/certification-prep/)
 - Check the Exam Guide to understand the purpose and area and examples of each certification, for example:
   - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
   - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
-**Practice Tests:**
+#### Practice Tests
 
 - Examtopics - List of all Amazon exams: https://www.examtopics.com/exams/amazon/ (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
 - TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
 - Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
 
-**Guides/Cheat Sheets:**
+#### Guides/Cheat Sheets
 
 - Digital Cloud Training- AWS Cheat Sheets: https://digitalcloud.training/aws-cheat-sheets/
 - TutorialsDojo - AWS Cheat Sheets: https://tutorialsdojo.com/aws-cheat-sheets/
 
-**AWS Certifications Sub-Reddit**:
+#### AWS Certifications Sub-Reddit
 
 - r/AWSCertifications: https://www.reddit.com/r/AWSCertifications/
 
-Visit: [**certification**](./certification/)
+Visit this [**certification**](./certification/) document for the detailed resouce of each certification (like: AWS-SAA-C03,...)
 
 ## Contributing 👋
 

@@ -12,6 +12,7 @@ awk '/<!-- Learning-Resource-End -->/{p=1; next} p' README.md >temp.txt
 echo "Save text below <!-- Learning-Resource-End --> to a temporary file"
 cat temp.txt
 
+echo ""
 echo "Creating new content"
 # Clear all text between "<!-- Learning-Resource-Begin -->" and "<!-- Learning-Resource-End -->"
 sed -i '/<!-- Learning-Resource-Begin -->/,$d' README.md
