@@ -119,15 +119,15 @@ Explore the [**certification document**](./certification/) for detailed resource
 
 ## AWS Architecture ✒️
 
-Explore the architecture of Amazon Web Services:
+Discover the architecture of Amazon Web Services, where services seamlessly combine with best practices:
 
-- **This is My Architecture**: An official Youtube video series by AWS that showcases innovative architectural solutions on the AWS Cloud by customers and partners. Each episode examines the most interesting and technically creative elements of each cloud architecture. Watch [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb) 📺
+- **This is My Architecture**: An official Youtube video series by AWS that showcases innovative architectural solutions on the AWS Cloud by customers and partners. Each episode examines the most interesting and technically creative elements of each cloud architecture. Watch the series 📺 [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
-- **AWS Well-Architected Framework:** Learn about AWS best practices for building secure, high-performing, resilient, and efficient infrastructure for your applications. Access the framework [**here**](https://aws.amazon.com/architecture/well-architected/) 📖
+- **AWS Well-Architected Framework:** Learn about AWS best practices for building secure, high-performing, resilient, and efficient infrastructure for your applications. Access the framework 📖 [**here**](https://aws.amazon.com/architecture/well-architected/)
 
-- **AWS Reference Architectures:** Discover pre-designed architecture patterns and best practices for various use cases such as web hosting, big data processing, and more. Explore the reference architectures [**here**](https://aws.amazon.com/architecture/) 📖
+- **AWS Reference Architectures:** Discover pre-designed architecture patterns and best practices for various use cases such as web hosting, big data processing, and more. Explore the reference architectures 📖 [**here**](https://aws.amazon.com/architecture/)
 
-- **AWS Whitepapers:** Dive deeper into AWS services and solutions with technical whitepapers covering architecture, security, performance optimization, and more. Find the whitepapers [**here**](https://aws.amazon.com/whitepapers/) 📖
+- **AWS Whitepapers:** Dive deeper into AWS services and solutions with technical whitepapers covering architecture, security, performance optimization, and more. Find the whitepapers 📖 [**here**](https://aws.amazon.com/whitepapers/)
 
 ## Contributing 👋
 
