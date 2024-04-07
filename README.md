@@ -1,4 +1,4 @@
-<h1 align="center">AWS Hub</h1>
+<h1 align="center">AWS Hub ☁️</h1>
 
 <p align="center">Welcome to the AWS Hub Repository 👋</p>
 <p align="center">This repository aims to collect various learning resources and documents for Amazon Web Services 🔥</p>
@@ -13,10 +13,10 @@
 ## Getting started 🚀
 
 - What is AWS? | Amazon Web Services: ➡️ [**Watch here**](https://youtu.be/a9__D53WsUs)
-- AWS Documentation: 📖 [**docs.aws.amazon.com**](https://docs.aws.amazon.com)
+- AWS Documentation: 📖 [**Explore here**](https://docs.aws.amazon.com)
 - Most Important Services: ➡️ [**Watch here**](https://youtu.be/FDEpdNdFglI)
 - Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
-- AWS Architecture: 📖 [**aws.amazon.com/architecture**](https://aws.amazon.com/architecture)
+- AWS Architecture: 📖 [**Explore here**](https://aws.amazon.com/architecture)
 
 <!-- Learning-Resource-Begin -->
 <!-- Do not edit the above line manually -->
@@ -119,13 +119,16 @@ Bring in your discussions, questions , opinions, news and comments around AWS ce
 
 Explore the [**certification document**](./certification/) for detailed resources on each certification, such as AWS-SAA-C03 and more.
 
-## AWS Architecture
+## AWS Architecture ✒️
 
 Explore the architecture of Amazon Web Services:
 
-- **This is My Architecture**: An official video series by AWS that showcases innovative architectural solutions on the AWS Cloud by customers and partners. Each episode examines the most interesting and technically creative elements of each cloud architecture. Watch [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+- **This is My Architecture**: An official Youtube video series by AWS that showcases innovative architectural solutions on the AWS Cloud by customers and partners. Each episode examines the most interesting and technically creative elements of each cloud architecture. Watch [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+
 - **AWS Well-Architected Framework:** Learn about AWS best practices for building secure, high-performing, resilient, and efficient infrastructure for your applications. Access the framework [**here**](https://aws.amazon.com/architecture/well-architected/).
+
 - **AWS Reference Architectures:** Discover pre-designed architecture patterns and best practices for various use cases such as web hosting, big data processing, and more. Explore the reference architectures [**here**](https://aws.amazon.com/architecture/).
+
 - **AWS Whitepapers:** Dive deeper into AWS services and solutions with technical whitepapers covering architecture, security, performance optimization, and more. Find the whitepapers [**here**](https://aws.amazon.com/whitepapers/).
 
 ## Contributing 👋
