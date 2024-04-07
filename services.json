@@ -227,7 +227,7 @@
 			"service_name": "AWS OpenSearch",
 			"service_url": "https://aws.amazon.com/opensearch-service/",
 			"service_youtube_url": "https://youtu.be/cZHB7KBubWs",
-			"service_short_name": "documentdb",
+			"service_short_name": "opensearch-service",
 			"faq_url": "https://aws.amazon.com/opensearch-service/faqs/"
 		},
 		{
@@ -250,6 +250,13 @@
 			"service_youtube_url": "https://youtu.be/uiM1xzOX8Qg",
 			"service_short_name": "elasticbeanstalk",
 			"faq_url": "https://aws.amazon.com/elasticbeanstalk/faqs/"
+		},
+		{
+			"service_name": "AWS Glue",
+			"service_url": "https://aws.amazon.com/glue/",
+			"service_youtube_url": "https://youtu.be/u14iVEc-C6E",
+			"service_short_name": "glue",
+			"faq_url": "https://aws.amazon.com/glue/faqs/"
 		}
 	]
 }
