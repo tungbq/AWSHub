@@ -23,7 +23,7 @@
 <!-- Do not edit the above line manually -->
 ## AWS Services Learning Resources 📘
 This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services
-- **Total services supported:** **42**
+- **Total services covered:** **42**
 - **AWS Docs:** Official documentation for each service
 - **Introduction (Youtube):** AWS short-introduction videos (~2min) with rich animations, music, and diagrams
 - **AWS FAQs:** Frequently asked questions about AWS services
