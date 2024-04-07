@@ -142,6 +142,11 @@ Visit [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebser
 - AWS re:Invent 2021: https://youtu.be/8_Xs8Ik0h1w
 - ...and more
 
+## What's Next? ❔
+
+- I'll continue maintaining this repository and updating the resources.
+- Stay tuned for more valuable content as I continuously add the latest resources and updates. ⏩ You could star/watch this repository to stay updated with the latest content! ⭐
+
 ## Contributing 👋
 
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
