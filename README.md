@@ -17,6 +17,7 @@
 - Most Important Services: ➡️ [**Watch here**](https://youtu.be/FDEpdNdFglI)
 - Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
 - AWS Architecture: 📖 [**Explore here**](https://aws.amazon.com/architecture)
+- AWS Management Console: [**Explore here**](https://aws.amazon.com/console/)
 
 <!-- Learning-Resource-Begin -->
 <!-- Do not edit the above line manually -->
