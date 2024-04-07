@@ -285,6 +285,13 @@
 			"service_youtube_url": "https://youtu.be/ng14ToMXnTA",
 			"service_short_name": "guardduty",
 			"faq_url": "https://aws.amazon.com/guardduty/faqs/"
+		},
+		{
+			"service_name": "AWS WAF",
+			"service_url": "https://aws.amazon.com/waf/",
+			"service_youtube_url": "https://youtu.be/nUI7G9UzyN8",
+			"service_short_name": "waf",
+			"faq_url": "https://aws.amazon.com/waf/faqs/"
 		}
 	]
 }
