@@ -264,6 +264,13 @@
 			"service_youtube_url": "https://youtu.be/EhExK4JgXvE",
 			"service_short_name": "machine-learning",
 			"faq_url": "https://aws.amazon.com/faqs/"
+		},
+		{
+			"service_name": "AWS DataSync",
+			"service_url": "https://aws.amazon.com/datasync/",
+			"service_youtube_url": "https://youtu.be/jPRquig6Nrw",
+			"service_short_name": "datasync",
+			"faq_url": "https://aws.amazon.com/datasync/faqs/"
 		}
 	]
 }
