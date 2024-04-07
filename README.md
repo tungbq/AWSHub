@@ -81,6 +81,11 @@ You're getting ready for the AWS Certification Exam. Here are my top personal ch
 - Jon Bonso: https://www.udemy.com/user/jonjonbonso/
 - Adrian Cantrill: https://learn.cantrill.io/
 
+#### Hands-on/Labs
+
+- Free learn-cantrill-io-labs: https://github.com/acantril/learn-cantrill-io-labs
+- Free AWS Cloud Complete Bootcamp Course: https://youtu.be/zA8guDqfv40
+
 #### Free Exam Preparation
 
 - Certification exam preparation by AWS: [here](https://aws.amazon.com/certification/certification-prep/)
@@ -98,14 +103,17 @@ You're getting ready for the AWS Certification Exam. Here are my top personal ch
 
 - Digital Cloud Training- AWS Cheat Sheets: https://digitalcloud.training/aws-cheat-sheets/
 - TutorialsDojo - AWS Cheat Sheets: https://tutorialsdojo.com/aws-cheat-sheets/
+- Whizlabs - AWS Cheat Sheets: https://www.whizlabs.com/blog/aws-cheat-sheet/
 
-## AWS Services Learning Resources
+#### AWS Services Learning Resources
 
 The link below acts like a bookmark, helping you recap the service via a short introduction video and providing documents, frequently asked questions you could refer to during the exam test.
 
 - https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-
 
 #### AWS Certifications Sub-Reddit
+
+Bring in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.
 
 - r/AWSCertifications: https://www.reddit.com/r/AWSCertifications/
 

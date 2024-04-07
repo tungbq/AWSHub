@@ -31,3 +31,5 @@
 ## Exam Topics - Free Amazon AWS Certified Solutions Architect - Associate SAA-C03 Exam
 
 - https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/
+
+And **more upcoming learning resources...⏩** you can star/follow this repository to get more up-to-dated content ⭐
