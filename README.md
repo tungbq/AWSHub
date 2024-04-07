@@ -1,4 +1,4 @@
-<h1 align="center">AWS Hub</h1>
+<h1 align="center">AWS Hub ☁️</h1>
 
 <p align="center">Welcome to the AWS Hub Repository 👋</p>
 <p align="center">This repository aims to collect various learning resources and documents for Amazon Web Services 🔥</p>
@@ -13,10 +13,10 @@
 ## Getting started 🚀
 
 - What is AWS? | Amazon Web Services: ➡️ [**Watch here**](https://youtu.be/a9__D53WsUs)
-- AWS Documentation: 📖 [**docs.aws.amazon.com**](https://docs.aws.amazon.com)
+- AWS Documentation: 📖 [**Explore here**](https://docs.aws.amazon.com)
 - Most Important Services: ➡️ [**Watch here**](https://youtu.be/FDEpdNdFglI)
 - Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
-- AWS Architecture: 📖 [**aws.amazon.com/architecture**](https://aws.amazon.com/architecture)
+- AWS Architecture: 📖 [**Explore here**](https://aws.amazon.com/architecture)
 
 <!-- Learning-Resource-Begin -->
 <!-- Do not edit the above line manually -->
@@ -76,10 +76,10 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 
 #### Free Exam Preparation
 
-- Certification exam preparation by AWS: [here](https://aws.amazon.com/certification/certification-prep/)
+- Certification exam preparation by AWS: [**here**](https://aws.amazon.com/certification/certification-prep/)
 - Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
-  - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-  - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [here](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
 #### Course
 
@@ -95,7 +95,7 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 
 #### Practice Tests
 
-- Exam Topics - List of all Amazon exams (Free): [here](https://www.examtopics.com/exams/amazon/) (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
+- Exam Topics - List of all Amazon exams (Free): [**here**](https://www.examtopics.com/exams/amazon/) (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
 - TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
 - Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
 
@@ -113,11 +113,21 @@ The link below acts like a bookmark, helping you recap the service via a short i
 
 #### AWS Certifications Sub-Reddit
 
-Bring in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.
-
-- r/AWSCertifications: https://www.reddit.com/r/AWSCertifications/
+- [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) brings in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.
 
 Explore the [**certification document**](./certification/) for detailed resources on each certification, such as AWS-SAA-C03 and more.
+
+## AWS Architecture ✒️
+
+Discover the architecture of Amazon Web Services, where services seamlessly combine with best practices:
+
+- **This is My Architecture**: An official Youtube video series by AWS that showcases innovative architectural solutions on the AWS Cloud by customers and partners. Each episode examines the most interesting and technically creative elements of each cloud architecture. Watch the series 📺 [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+
+- **AWS Well-Architected Framework:** Learn about AWS best practices for building secure, high-performing, resilient, and efficient infrastructure for your applications. Access the framework 📖 [**here**](https://aws.amazon.com/architecture/well-architected/)
+
+- **AWS Reference Architectures:** Discover pre-designed architecture patterns and best practices for various use cases such as web hosting, big data processing, and more. Explore the reference architectures 📖 [**here**](https://aws.amazon.com/architecture/)
+
+- **AWS Whitepapers:** Dive deeper into AWS services and solutions with technical whitepapers covering architecture, security, performance optimization, and more. Find the whitepapers 📖 [**here**](https://aws.amazon.com/whitepapers/)
 
 ## Contributing 👋
 
