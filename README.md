@@ -1,7 +1,7 @@
-<h1 align="center">AWSHub</h1>
+<h1 align="center">AWS Hub</h1>
 
 <p align="center">Welcome to the AWS Hub Repository 👋</p>
-<p align="center">This repository aims to collect free learning resources for AWS services to help beginners get started with Amazon Web Services 🔥</p>
+<p align="center">This repository aims to collect various learning resources and documents for Amazon Web Services 🔥</p>
 
 <p align="center">
 <a href="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main" /></a>
@@ -94,7 +94,7 @@ You're getting ready for the AWS Certification Exam. Here are my top personal ch
 - TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
 - Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
 
-## **Guides/Cheat Sheets:**
+**Guides/Cheat Sheets:**
 
 - Digital Cloud Training- AWS Cheat Sheets: https://digitalcloud.training/aws-cheat-sheets/
 - TutorialsDojo - AWS Cheat Sheets: https://tutorialsdojo.com/aws-cheat-sheets/
