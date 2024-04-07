@@ -133,6 +133,15 @@ Discover the architecture of Amazon Web Services, where services seamlessly comb
 
 - **AWS Whitepapers:** Dive deeper into AWS services and solutions with technical whitepapers covering architecture, security, performance optimization, and more. Find the whitepapers 📖 [**here**](https://aws.amazon.com/whitepapers/)
 
+## The official YouTube channel AWS 📺
+
+Visit [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebservices)
+
+- AWS re:Invent 2023: https://youtu.be/UTRBVPvzt9w
+- AWS re:Invent 2022: https://youtu.be/RfvL_423a-I
+- AWS re:Invent 2021: https://youtu.be/8_Xs8Ik0h1w
+- ...and more
+
 ## Contributing 👋
 
 - See: [CONTRIBUTING.MD](./CONTRIBUTING.md)
