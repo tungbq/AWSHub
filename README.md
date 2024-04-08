@@ -128,11 +128,11 @@ The link below acts like a bookmark, helping you recap the service via a short i
 
 ### Specific AWS Certification resources
 
-| ID  | Certification Name                                           | AWS Docs                                            |
-| --- | ------------------------------------------------------------ | --------------------------------------------------- |
-| 1   | AWS Certified Solutions Architect - Associate exam (SAA-C03) | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md) |
-| 2   | AWS Certified Cloud Practitioner exam(CLF-C02)               | ...coming soon                                      |
-| 3   | AWS Certified DevOps Engineer - Professional exam (DOP-C02)  | ...coming soon                                      |
+|     | ID          | Certification Name                                 | Learning path                                       |
+| --- | ----------- | -------------------------------------------------- | --------------------------------------------------- |
+| 1   | AWS SAA-C03 | AWS Certified Solutions Architect - Associate exam | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md) |
+| 2   | AWS CLF-C02 | AWS Certified Cloud Practitioner exam              | ...coming soon                                      |
+| 3   | AWS DOP-C02 | AWS Certified DevOps Engineer - Professional exam  | ...coming soon                                      |
 
 ➡️ Explore this [**set of specific AWS Certification resources**](./certification/) for more details.
 
