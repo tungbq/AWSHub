@@ -126,7 +126,15 @@ The link below acts like a bookmark, helping you recap the service via a short i
 
 - [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) brings in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.
 
-➡️ Explore the [**certification document**](./certification/) for detailed resources on each certification, such as AWS-SAA-C03 and more.
+### Specific AWS Certification resources
+
+| ID  | Certification Name                                           | AWS Docs                                            |
+| --- | ------------------------------------------------------------ | --------------------------------------------------- |
+| 1   | AWS Certified Solutions Architect - Associate exam (SAA-C03) | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md) |
+| 2   | AWS Certified Cloud Practitioner exam(CLF-C02)               | ...coming soon                                      |
+| 3   | AWS Certified DevOps Engineer - Professional exam (DOP-C02)  | ...coming soon                                      |
+
+➡️ Explore this [**set of specific AWS Certification resources**](./certification/) for more details.
 
 ## AWS Architecture ✒️
 
