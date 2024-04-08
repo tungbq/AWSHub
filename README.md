@@ -39,7 +39,7 @@ Full AWS services learning resource table:
 | 3 | AWS Aurora | 📖 [aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide) | ▶️ [Watch](https://youtu.be/FzxqIdIZ9wc) | ❔ [aurora/faqs](https://aws.amazon.com/rds/aurora/faqs/)|
 | 4 | AWS CloudTrail | 📖 [cloudtrail](https://docs.aws.amazon.com/cloudtrail/) | ▶️ [Watch](https://youtu.be/mXQSnbc9jMs) | ❔ [cloudtrail/faqs](https://aws.amazon.com/cloudtrail/faqs/)|
 | 5 | AWS CloudWatch | 📖 [cloudwatch](https://docs.aws.amazon.com/cloudwatch/) | ▶️ [Watch](https://youtu.be/a4dhoTQCyRA) | ❔ [cloudwatch/faqs](https://aws.amazon.com/cloudwatch/faqs/)|
-| 6 | AWS Cloudfront | 📖 [cloudfront](https://docs.aws.amazon.com/cloudfront) | ▶️ [Watch](https://youtu.be/AT-nHW3_SVI) | ❔ [cloudfront/faqs](null)|
+| 6 | AWS Cloudfront | 📖 [cloudfront](https://docs.aws.amazon.com/cloudfront) | ▶️ [Watch](https://youtu.be/AT-nHW3_SVI) | ❔ [cloudfront/faqs](https://aws.amazon.com/cloudfront/faqs/)|
 | 7 | AWS CodeCommit | 📖 [codecommit](https://docs.aws.amazon.com/codecommit) | ▶️ [Watch](https://youtu.be/46PRLMW8otg) | ❔ [codecommit/faqs](https://aws.amazon.com/codecommit/faqs/)|
 | 8 | AWS Cognito | 📖 [cognito](https://docs.aws.amazon.com/cognito/) | ▶️ [Watch](https://youtu.be/vqAirwfYgrY) | ❔ [cognito/faqs](https://aws.amazon.com/cognito/faqs/)|
 | 9 | AWS Config | 📖 [config](https://docs.aws.amazon.com/config/) | ▶️ [Watch](https://youtu.be/MJDuAvNEv64) | ❔ [config/faqs](https://aws.amazon.com/config/faqs/)|

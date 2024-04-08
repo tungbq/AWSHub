@@ -67,7 +67,8 @@
 			"service_name": "AWS Cloudfront",
 			"service_url": "https://docs.aws.amazon.com/cloudfront",
 			"service_youtube_url": "https://youtu.be/AT-nHW3_SVI",
-			"service_short_name": "cloudfront"
+			"service_short_name": "cloudfront",
+			"faq_url": "https://aws.amazon.com/cloudfront/faqs/"
 		},
 		{
 			"service_name": "AWS Lambda",
