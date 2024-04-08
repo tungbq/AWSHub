@@ -26,6 +26,8 @@ This section provides links to detailed documentation, introduction videos, and 
 - **Total services covered:** **42**
 - **AWS Docs:** Official documentation for each service
 - **Introduction (Youtube):** AWS short-introduction videos (~2min) with rich animations, music, and diagrams
+	- For example: [Introduction to Amazon Aurora](https://youtu.be/FzxqIdIZ9wc)
+	![aurora_overview](./assets/aurora_overview.png)
 - **AWS FAQs:** Frequently asked questions about AWS services
 
 | ID | Service Name | AWS Docs | Introduction | AWS FAQs |
