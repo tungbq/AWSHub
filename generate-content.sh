@@ -24,7 +24,7 @@ echo "<!-- Do not edit the above line manually -->" >>README.md
 echo "## AWS Services Learning Resources 📘" >>README.md
 # Brief introduction
 echo "This section provides links to detailed documentation, introduction videos, and FAQs for popular AWS services" >>README.md
-echo "- **Total services supported:** **${services_count}**" >>README.md
+echo "- **Total services covered:** **${services_count}**" >>README.md
 echo "- **AWS Docs:** Official documentation for each service" >>README.md
 echo "- **AWS FAQs:** Frequently asked questions about AWS services" >>README.md
 echo "- **Introduction (Youtube):** AWS short-introduction videos (~2min) with rich animations, music, and diagrams" >>README.md
