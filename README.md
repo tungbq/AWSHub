@@ -85,44 +85,44 @@ And **more upcoming services content...⏩** you can star/follow this repository
 
 Preparing for the AWS Certification Exam? Here are my top personal recommendations for learning resources:
 
-#### Free Exam Preparation
+### Free Exam Preparation
 
 - Certification exam preparation by AWS: [**here**](https://aws.amazon.com/certification/certification-prep/)
 - Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
   - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
   - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
-#### Course
+### Course
 
 - Stephane Maarek: https://www.udemy.com/user/stephane-maarek/
 - Jon Bonso: https://www.udemy.com/user/jonjonbonso/
 - Adrian Cantrill: https://learn.cantrill.io/
 - Youtube freeCodeCamp.org: https://youtu.be/NhDYbskXRgc
 
-#### Hands-on/Labs
+### Hands-on/Labs
 
 - Free learn-cantrill-io-labs: https://github.com/acantril/learn-cantrill-io-labs
 - Free AWS Cloud Complete Bootcamp Course: https://youtu.be/zA8guDqfv40
 
-#### Practice Tests
+### Practice Tests
 
 - Exam Topics - List of all Amazon exams (Free): [**here**](https://www.examtopics.com/exams/amazon/) (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
 - TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
 - Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
 
-#### Guides/Cheat Sheets
+### Guides/Cheat Sheets
 
 - Digital Cloud Training- AWS Cheat Sheets: https://digitalcloud.training/aws-cheat-sheets/
 - TutorialsDojo - AWS Cheat Sheets: https://tutorialsdojo.com/aws-cheat-sheets/
 - Whizlabs - AWS Cheat Sheets: https://www.whizlabs.com/blog/aws-cheat-sheet/
 
-#### AWS Services Learning Resources
+### AWS Services Learning Resources
 
 The link below acts like a bookmark, helping you recap the service via a short introduction video and providing documents, as well as frequently asked questions you could refer to during exam preparation/practice
 
 - Explore [**aws-services-learning-resources**](https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-)
 
-#### AWS Certifications Sub-Reddit
+### AWS Certifications Sub-Reddit
 
 - [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) brings in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.
 
