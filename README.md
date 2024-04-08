@@ -30,7 +30,7 @@ This section provides links to detailed documentation, introduction videos, and 
 	- For example: [Introduction to Amazon Aurora](https://youtu.be/FzxqIdIZ9wc)
 	  ![aurora_overview](./assets/aurora_overview.png)
 
-Full AWS services learning resource table
+Full AWS services learning resource table:
 
 | ID | Service Name | AWS Docs | Introduction | AWS FAQs |
 |----|--------------|----------|--------------|----------|

@@ -32,7 +32,7 @@ echo "	- For example: [Introduction to Amazon Aurora](https://youtu.be/FzxqIdIZ9
 echo "	  ![aurora_overview](./assets/aurora_overview.png)" >>README.md
 
 echo "" >>README.md
-echo "Full AWS services learning resource table" >>README.md
+echo "Full AWS services learning resource table:" >>README.md
 echo "" >>README.md
 echo "| ID | Service Name | AWS Docs | Introduction | AWS FAQs |" >>README.md
 echo "|----|--------------|----------|--------------|----------|" >>README.md
