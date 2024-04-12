@@ -156,6 +156,10 @@ Discover the architecture of Amazon Web Services, where services seamlessly comb
 - Resources from AWS technology experts and AWS Partners to help accelerate cloud adoption and modernization
 - Explore [**here**](https://aws.amazon.com/prescriptive-guidance)
 
+## AWS Hands-on Tutorials 📗
+- Get started with step-by-step tutorials to launch your first application
+- Explore [**here**](https://aws.amazon.com/getting-started/hands-on)
+
 ## The official YouTube channel AWS 📺
 
 Visit [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebservices)
