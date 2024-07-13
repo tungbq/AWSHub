@@ -146,6 +146,8 @@ Discover the architecture of Amazon Web Services, where services seamlessly comb
 
     ![](./assets/this-is-my-architecture-sample.png)
 
+- **AWS - This is My Architecture Special Episodes:** Watch the series 📺 [**here**](https://youtube.com/playlist?list=PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr&si=jR0l2cuhwgRrVUlN)
+
 - **AWS Well-Architected Framework:** Learn about AWS best practices for building secure, high-performing, resilient, and efficient infrastructure for your applications. Access the framework 📖 [**here**](https://aws.amazon.com/architecture/well-architected/)
 
 - **AWS Reference Architectures:** Discover pre-designed architecture patterns and best practices for various use cases such as web hosting, big data processing, and more. Explore the reference architectures 📖 [**here**](https://aws.amazon.com/architecture/)
