@@ -293,6 +293,13 @@
 			"service_youtube_url": "https://youtu.be/nUI7G9UzyN8",
 			"service_short_name": "waf",
 			"faq_url": "https://aws.amazon.com/waf/faqs/"
-		}
+		},
+		{
+    "service_name": "AWS CloudFormation",
+    "service_url": "https://docs.aws.amazon.com/cloudformation/",
+    "service_youtube_url": "https://youtu.be/Omppm_YUG2g",
+    "service_short_name": "cloudformation",
+    "faq_url": "https://aws.amazon.com/cloudformation/faqs/"
+}
 	]
 }
